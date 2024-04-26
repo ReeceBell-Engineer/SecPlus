@@ -1,0 +1,128 @@
+IDS,Intrusion Detection System
+AV,Anti-Virus
+CCTV,Closed Circuit Television
+IRP,Incident Response Process
+DRP,Disaster Recovery Plan
+MFA,Multi-factor Authentication
+IPS,Intrusion Prevention System
+AUP,Acceptable Use Policy
+PKI,Public Key Infrastructure
+AAA,Authentication, Authorization, Accounting
+GDPR,General Data Protection Regulation
+CIA,Confidentiality, Integrity, Availability
+CHAP,Challange Handshake Authentication Protocol
+TACACS+,Terminal Access Controller Access-controll System
+PAP,Password Authentication Protocol
+PPP,Point-to-point protocol
+RADIUS,Remote Authentication Dial-in User Service
+MS-CHAP,Microsoft Challange Handshake Authentication Protocol
+PDP,Policy Decision Point
+BPA,Business Partership Agreement
+BIA,Business Impact Analysis
+SLE,Single Loss Expectancy
+BCP,Business Continuity Plan
+PKCS,Public-Key Cryptography Standards
+CA,Certificate Authority
+RA,Recovery Agent - Registration Authority
+HSM,Hardware Security Modules
+TPM,Trusted Platform Module
+EFS,Encrypted File System
+SED,Self-Encrypting Drives
+FDE,Full-Disk Encryption
+VPN,Virtual Private Network
+GPG,GNU Privacy Guard
+SSH,Secure Shell
+IPsec,Internet Protocol Security
+PGP,Pretty Good Privacy
+SFTP,Secure File Transfer Protocol
+HTTPS,Hypertext Transfer Protocol Secure
+FTPS,File Transfer Protocol Secure
+SNMP,Simple Network Management Protocol
+S/MIME,Secure Multipurpose Internet Mail Extension
+STARTTLS,Star Transport Layer Security
+DKIM,DomainKeys Identified Mail
+SMTPS,Simple Mail Transfer Protocol Secure
+SRTP,Secure Real-time Transport Protocol
+SHTTP,Secure Hypertext Transfer Protocol
+DSA,Digital Signature Algorithm
+ECDSA,Elliptic Curve Digital Signature Algorithm
+ACL,Access Control List
+NAC,Network Access Control
+STIX,Structured Threat Information eXpression
+FRR,False Rejection Rate
+CRC,Cyclic Redundancy Check
+FAR,False Acceptance Rate
+CER,Crossover Error Rate
+EOL,End-of-Life
+ALM,Application Lifecycle Management
+EOS,End-of-Support
+SDLC,Software Development Life Cycle
+KEK, Key Encryption Key
+CRL,Certificate Revocation List
+OCSP,Online Certificate Status Protocol
+DN,Distinguished Name
+CSR,Cirtificate Signing Request
+ECC,Elliptic-Curve Cryptography
+RSA,Rivest-Shamir-Adleman
+PCAP,Packet Capture
+HIPS,Host Intrusion Prevention System
+SIEM,Security Information and Event Management
+TOTP,Time-Based One-Time Password
+HA,High Availability
+SHA,Secure Hash Algorithm
+RIPEMD,RACE Integrity Primitives Evaluation Message Digest
+MD5,Message Digest Method 5
+IoC,Indicators of Compromise
+OSINT,Open Source Intelligence
+RFC,Request For Comments
+CVE,Common Vulnerabilities and Exposures
+NVD,National Vulnerability Database
+IKE,Internet Key Exchange
+BEC,Business email compromise
+SCAP,Security Content Automation Protocol
+CFB,
+CBC,
+GCM,
+ECB,
+AES,
+IDEA,
+EPC,
+DNAT,
+VLSM,
+MPLS,
+VLAN,
+SPD,
+SD-WAN,
+OSI,
+TLS,
+MIME,
+S/MIME,
+SSL,
+DES,
+RC4,
+CVSS,
+SOAR,
+MSP,
+NFS,
+CTM,
+SFC,
+CYOD,
+PAM,
+BYOD,
+COPE,
+HOTP,
+NIDS,
+RTO,
+MTTR,
+RPO,
+MTBF,
+SMB,
+MDM,
+WAF,
+PCI DSS,Payment Card Industry Data Security Standards
+GDPR,General Data Protection Regulation
+ISO 31000,
+NIST,
+DNSSEC,
+DMARC,
+DNS,

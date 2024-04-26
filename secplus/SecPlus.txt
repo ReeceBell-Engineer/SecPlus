@@ -1,0 +1,3045 @@
+=====Acronyms Start=====
+IDS,Intrusion Detection System
+AV,Anti-Virus
+CCTV,Closed Circuit Television
+IRP,Incident Response Process
+DRP,Disaster Recovery Plan
+MFA,Multi-factor Authentication
+IPS,Intrusion Prevention System
+AUP,Acceptable Use Policy
+PKI,Public Key Infrastructure
+AAA,Authentication, Authorization, Accounting
+GDPR,General Data Protection Regulation
+CIA,Confidentiality, Integrity, Availability
+CHAP,Challange Handshake Authentication Protocol
+TACACS+,Terminal Access Controller Access-controll System
+PAP,Password Authentication Protocol
+PPP,Point-to-point protocol
+RADIUS,Remote Authentication Dial-in User Service
+MS-CHAP,Microsoft Challange Handshake Authentication Protocol
+PDP,Policy Decision Point
+BPA,Business Partership Agreement
+BIA,Business Impact Analysis
+SLE,Single Loss Expectancy
+BCP,Business Continuity Plan
+PKCS,Public-Key Cryptography Standards
+CA,Certificate Authority
+RA,Recovery Agent - Registration Authority
+HSM,Hardware Security Modules
+TPM,Trusted Platform Module
+EFS,Encrypted File System
+SED,Self-Encrypting Drives
+FDE,Full-Disk Encryption
+VPN,Virtual Private Network
+GPG,GNU Privacy Guard
+SSH,Secure Shell
+IPsec,Internet Protocol Security
+PGP,Pretty Good Privacy
+SFTP,Secure File Transfer Protocol
+HTTPS,Hypertext Transfer Protocol Secure
+FTPS,File Transfer Protocol Secure
+SNMP,Simple Network Management Protocol
+S/MIME,Secure Multipurpose Internet Mail Extension
+STARTTLS,Star Transport Layer Security
+DKIM,DomainKeys Identified Mail
+SMTPS,Simple Mail Transfer Protocol Secure
+SRTP,Secure Real-time Transport Protocol
+SHTTP,Secure Hypertext Transfer Protocol
+DSA,Digital Signature Algorithm
+ECDSA,Elliptic Curve Digital Signature Algorithm
+ACL,Access Control List
+NAC,Network Access Control
+STIX,Structured Threat Information eXpression
+FRR,False Rejection Rate
+CRC,Cyclic Redundancy Check
+FAR,False Acceptance Rate
+CER,Crossover Error Rate
+EOL,End-of-Life
+ALM,Application Lifecycle Management
+EOS,End-of-Support
+SDLC,Software Development Life Cycle
+KEK, Key Encryption Key
+CRL,Certificate Revocation List
+OCSP,Online Certificate Status Protocol
+DN,Distinguished Name
+CSR,Cirtificate Signing Request
+ECC,Elliptic-Curve Cryptography
+RSA,Rivest-Shamir-Adleman
+PCAP,Packet Capture
+HIPS,Host Intrusion Prevention System
+SIEM,Security Information and Event Management
+TOTP,Time-Based One-Time Password
+HA,High Availability
+SHA,Secure Hash Algorithm
+RIPEMD,RACE Integrity Primitives Evaluation Message Digest
+MD5,Message Digest Method 5
+IoC,Indicators of Compromise
+OSINT,Open Source Intelligence
+RFC,Request For Comments
+CVE,Common Vulnerabilities and Exposures
+NVD,National Vulnerability Database
+IKE,Internet Key Exchange
+BEC,Business email compromise
+SCAP,Security Content Automation Protocol
+CFB,
+CBC,
+GCM,
+ECB,
+AES,
+IDEA,
+EPC,
+DNAT,
+VLSM,
+MPLS,
+VLAN,
+SPD,
+SD-WAN,
+OSI,
+TLS,
+MIME,
+S/MIME,
+SSL,
+DES,
+RC4,
+CVSS,
+SOAR,
+MSP,
+NFS,
+CTM,
+SFC,
+CYOD,
+PAM,
+BYOD,
+COPE,
+HOTP,
+NIDS,
+=====Acronyms End=====
+=====Questions Start=====
+===== Bank 1 =====
+
+Which of the following answers can be used to describe technical security controls? (Select 3 answers)
+Focused on protecting material assets
+Sometimes called logical security controls (Correct)
+Executed by computer systems (instead of people) (Correct)
+Also known as administrative controls
+Implemented with technology (Correct)
+Primarily implemented and executed by people (as opposed to computer systems)
+
+Which of the answers listed below refer to examples of technical security controls? (Select 3 answers)
+Security audits
+Encryption (Correct)
+Organizational security policy
+IDSs (Correct)
+Configuration management
+Firewalls (Correct)
+
+Which of the following answers refer to the characteristic features of managerial security controls? (Select 3 answers)
+Also known as administrative controls (Correct)
+Sometimes referred to as logical security controls
+Focused on reducing the risk of security incidents (Correct)
+Executed by computer systems (instead of people)
+Documented in written policies (Correct)
+Focused on protecting material assets
+
+Examples of managerial security controls include: (Select 3 answers)
+Configuration management
+Data backups
+Organizational security policy (Correct)
+Risk assessments (Correct)
+Security awareness training (Correct)
+
+Which of the answers listed below can be used to describe operational security controls (Select 3 answers)
+Also known as administrative controls
+Focused on the day-to-day procedures of an organization (Correct)
+Executed by computer systems (instead of people)
+Used to ensure that the equipment continues to work as specified (Correct)
+Focused on managing risk
+Primarily implemented and executed by people (as opposed to computer systems) (Correct)
+
+Which of the following examples fall into the category of operational security controls? (Select 3 answers)
+Risk assessments
+Configuration management (Correct)
+System backups (Correct)
+Authentication protocols
+Patch management (Correct)
+
+Which of the answers listed below refers to security controls designed to deter, detect, and prevent unauthorized access, theft, damage, or destruction of material assets?
+Managerial security controls
+Physical security controls (Correct)
+Technical security controls
+Operational security controls
+
+Which of the following examples do not fall into the category of physical security controls? (Select 3 answers)
+Lighting
+Access control vestibules
+Data backups (Correct)
+Fencing/Bollards/Barricades
+Firewalls (Correct)
+Security guards
+Asset management (Correct)
+
+What are the examples of preventive security controls? (Select 3 answers)
+Encryption (Correct)
+IDS
+Sensors
+Firewalls (Correct)
+Warning signs
+AV software (Correct)
+
+Examples of deterrent security controls include: (Select 3 answers)
+Warning signs (Correct)
+Sensors
+Lighting (Correct)
+Video surveillance
+Security audits
+Fencing/Bollards (Correct)
+
+Which of the answers listed below refer(s) to detective security control(s)? (Select all that apply)
+Lighting
+Log monitoring (Correct)
+Sandboxing
+Security audits (Correct)
+CCTV (Correct)
+IDS (Correct)
+Vulnerability scanning (Correct)
+
+Which of the following answers refer(s) to corrective security control(s)? (Select all that apply)
+IRPs (Correct)
+Log monitoring
+Backups and system recovery (Correct)
+DRPs (Correct)
+Forensic analysis (Correct)
+
+Which of the answers listed below refer(s) to compensating security control(s)? (Select all that apply)
+Temporary service disablement (Correct)
+Video surveillance
+MFA (Correct)
+Backup power systems (Correct)
+Sandboxing (Correct)
+Temporary port blocking (Correct)
+
+The term "Directive security controls" refers to the category of security controls that are implemented through policies and procedures.
+True (Correct)
+False
+
+Which of the following terms fall into the category of directive security controls? (Select 2 answers)
+IRP (Correct)
+AUP (Correct)
+IDS
+MFA
+IPS
+
+Which of the terms listed below can be used to describe the basic principles of information security?
+PKI
+AAA
+GDPR
+CIA (Correct)
+
+The term "Non-repudiation" describes the inability to deny responsibility for performing a specific action. In the context of data security, non-repudiation ensures data confidentiality, provides proof of data integrity, and proof of data origin.
+True
+False (Correct)
+
+Which of the following best applies to the concept of non-repudiation?
+Digital certificate (Correct)
+MFA
+Hashing
+Encryption
+
+Which type of user account violates the concept of non-repudiation?
+Standard user account
+Shared account (Correct)
+Guest user account
+Service account
+
+Which part of the AAA security architecture deals with the verification of the identity of a person or process?
+Authentication (Correct)
+Authorization
+Accounting
+
+In the AAA security architecture, the process of granting or denying access to resources is known as:
+Authentication
+Authorization (Correct)
+Accounting
+
+In the AAA security architecture, the process of tracking accessed services as well as the amount of consumed resources is called:
+Authentication
+Authorization
+Accounting (Correct)
+
+Which of the following solutions provide(s) the AAA functionality? (Select all that apply)
+CHAP
+TACACS+ (Correct)
+PAP
+RADIUS (Correct)
+MS-CHAP
+
+In the context of the AAA framework, common methods for authenticating people include: (Select 3 answers)
+IP addresses
+Usernames and passwords (Correct)
+MAC addresses
+Biometrics (Correct)
+MFA (Correct)
+
+Which of the answers listed below refer to common methods of device authentication used within the AAA framework? (Select 3 answers)
+Usernames and passwords
+Digital certificates (Correct)
+IP addresses (Correct)
+MFA
+Biometric authentication
+MAC addresses (Correct)
+
+===== Bank 2 =====
+
+Which of the following terms describes the process of identifying differences between an organization's current security posture and its desired security posture?
+Tabletop exercise
+Gap analysis (Correct)
+Security awareness training
+Risk assessment
+
+The term "Zero Trust security" refers to a cybersecurity model that eliminates implicit trust from networks and requires all users and devices to be continuously verified before being granted access to resources. The implementation of the Zero Trust security involves two distinct components: a Data Plane, responsible for defining and managing security policies, and a Control Plane, responsible for enforcing the security policies established by the Data Plane.
+True
+False (Correct)
+
+Which of the answers listed below refers to a Zero Trust Control Plane security approach that takes into account user identity, device security, network conditions, and other contextual information to enable dynamic access decisions?
+Implicit trust
+Monitoring and logging
+Adaptive identity (Correct)
+Microsegmentation
+
+What are the key components of the Zero Trust Control Plane's Policy Decision Point (PDP)? (Select 2 answers)
+Policy Engine (PE) (Correct)
+Monitoring and logging
+Policy Enforcement Point (PEP)
+Microsegmentation
+Policy Administrator (PA) (Correct)
+
+In the Zero Trust security architecture, the Policy Enforcement Point (PEP) is a Data Plane component that enforces the security policies defined at the Control Plane by the Policy Decision Point (PDP).
+True (Correct)
+False
+
+An access control vestibule (a.k.a. mantrap) is a physical security access control system used to prevent unauthorized users from gaining access to restricted areas. An example mantrap could be a two-door entrance point connected to a guard station wherein a person entering from the outside remains locked inside until he/she provides authentication token required to unlock the inner door.
+True (Correct)
+False
+
+Which of the following statements about honeypots are true? (Select 2 answers)
+Honeypots are always part of a honeynet
+Honeypots mimic real systems to attract cyber attackers (Correct)
+Honeypots are a type of anti-malware solution
+Honeypots contain apparent vulnerabilities that are closely monitored by a security team (Correct)
+Honeypots are used to launch attacks on cyber attackers
+
+What is a honeynet in the context of cybersecurity?
+A network of IDSs
+A network of honeypots (Correct)
+A network of infected hosts
+A network of IPSs
+
+Which of the answers listed below refers to a honeynet example?
+A network of fake websites
+A network of fake servers
+A network of fake databases
+A network of fake file shares
+All of the above (Correct)
+
+A honeyfile can be any type of file (e.g., a document, email message, image, or video file) containing real user data intentionally placed within a network or system to attract potential attackers or unauthorized users.
+True 
+False (Correct)
+
+A honeyfile can be used for:
+Attracting cyber attackers
+Triggering alerts when accessed
+Monitoring network activity
+All of the above (Correct)
+
+What is a honeytoken?
+A decoy file that is designed to attract attackers
+A unique identifier assigned to a honeyfile
+A decoy system that is designed to lure potential attackers
+A unique identifier that is designed to track attackers (Correct)
+
+Which of the following should not be used as honeytokens? (Select all that apply)
+Active user account credentials (Correct)
+Database entries mimicking real data
+Actual URLs to live websites or resources (Correct)
+Dummy server logs with enticing information
+Fake identifiers, including usernames, passwords, email addresses, and IP addresses
+
+A process used by organizations to assess and evaluate the potential impact of disruptive incidents or disasters on their critical business functions and operations is referred to as:
+BPA 
+BIA (Correct)
+SLE
+BCP
+
+A hierarchical system for the creation, management, storage, distribution, and revocation of digital certificates is known as:
+PKI (Correct)
+RA
+PKCS 
+CA
+
+Which of the answers listed below best describes the characteristics of a public-private key pair?
+Both keys are examples of a symmetrical key
+Two keys that are identical
+A pair of keys where one is used for encryption and the other for decryption (Correct)
+Both keys are examples of a shared key
+
+What is the typical use of a public key?
+Data encryption (Correct)
+Data decryption
+User/device authentication
+All of the above 
+
+Key escrow is a cryptographic technique that enables storing copies of encryption keys with a trusted third party. A Recovery Agent (RA) is a trusted third party (an individual, entity, or system) who is authorized to assist in the retrieval of encryption keys and data on behalf of the data owner. Key escrow and RA are both used to ensure that encrypted data can be decrypted even if the data owner loses access to their encryption key. Since key escrow and RAs are both components of a single security solution, the only way to implement key escrow systems is with the use of RAs.
+True 
+False (Correct)
+
+Which of the following answers refers to a data storage device equipped with hardware-level encryption functionality?
+HSM
+TPM
+EFS
+SED (Correct)
+
+Which of the answers listed below refers to software technology designed to provide confidentiality for an entire data storage device?
+TPM
+FDE (Correct)
+EFS
+HSM 
+
+An MS Windows component that enables encryption of individual files is called:
+SED
+EFS (Correct)
+BitLocker
+FDE
+
+Which of the following software application tools are specifically designed for implementing encryption algorithms to secure data communication and storage? (Select 2 answers)
+VPN
+GPG (Correct)
+SSH
+IPsec
+PGP (Correct)
+
+What is the name of a network protocol that secures web traffic via SSL/TLS encryption?
+SFTP
+HTTPS (Correct)
+FTPS
+SNMP
+
+Which of the answers listed below refers to a deprecated TLS-based method for secure transmission of email messages?
+S/MIME
+STARTTLS 
+DKIM
+SMTPS (Correct)
+
+Which of the following answers refers to an obsolete protocol used for secure data transfer over the web?
+SMTPS
+SRTP
+SHTTP (Correct)
+S/MIME
+
+===== Bank 3 =====
+
+The MIME specification extends the email message format beyond plain text, enabling the transfer of graphics, audio, and video files over the Internet mail system. S/MIME is an enhanced version of the MIME protocol that enables email security features by providing encryption, authentication, message integrity, and other related services.
+True (Correct)
+False
+
+What is the name of a network protocol that enables secure file transfer over SSH?
+TFTP
+SFTP (Correct)
+Telnet
+FTPS
+
+SFTP is an extension of the FTP protocol that adds support for SSL/TLS encryption.
+True 
+False (Correct)
+
+A type of cryptographic network protocol for secure data communication, remote command-line login, remote command execution, and other secure network services between two networked computers is known as:
+RDP
+SSH (Correct)
+Telnet
+SCP
+
+Which of the answers listed below refers to a suite of protocols and technologies providing encryption, authentication, and data integrity for network traffic?
+TLS
+SSH
+IPsec (Correct)
+VPN
+
+Which part of IPsec provides authentication, integrity, and confidentiality?
+SPD 
+PFS
+AH
+ESP (Correct)
+
+A system that uses public network (such as the Internet) as a means for creating private encrypted connections between remote locations is referred to as:
+WWAN
+VPN (Correct)
+PAN
+VLAN
+
+Which protocol enables secure, real-time delivery of audio and video over an IP network?
+S/MIME
+RTP
+SIP
+SRTP (Correct)
+
+An encryption protocol primarily used in Wi-Fi networks implementing the WPA2 security standard is called:
+TKIP
+CCMP (Correct)
+SSL 
+IPsec
+
+A security protocol designed to improve the security of existing WEP implementations is known as:
+WPA2 
+RC4
+CCMP
+TKIP (Correct)
+
+Which of the following answers refer(s) to deprecated/insecure encryption protocols and cryptographic hash functions? (Select all that apply)
+DES 
+AES-256
+MD5 (Correct)
+ECC
+SHA-1 (Correct)
+SSL 
+RC4 (Correct)
+
+Which cryptographic protocol is designed to provide secure communications over a computer network and is the successor to SSL?
+IPsec
+TLS (Correct)
+AES
+CCMP
+
+Examples of techniques used for encrypting information include symmetric encryption (also called public-key encryption) and asymmetric encryption (also called secret-key encryption, or session-key encryption).
+True 
+False (Correct)
+
+In asymmetric encryption, any message encrypted with the use of a public key can only be decrypted by applying the same algorithm and a matching private key (and vice versa).
+True (Correct)
+False
+
+Which of the algorithms listed below are not symmetric ciphers? (Select 3 answers)
+AES
+DES
+DHE (Correct)
+ECC (Correct)
+IDEA
+RC4
+RSA (Correct)
+
+Which of the following algorithms do(es) not fall into the category of asymmetric encryption? (Select all that apply)
+AES (Correct)
+DES (Correct)
+DHE 
+ECC
+IDEA (Correct)
+RC4 (Correct)
+RSA
+
+The term "KEK" refers to a type of cryptographic key often used in key management systems to add an additional layer of security when encrypting and decrypting other cryptographic keys.
+True (Correct)
+False 
+
+Which of the answers listed below refers to a shared secret authentication method used in WPA, WPA2, and EAP?
+PSK (Correct)
+802.1X 
+SAE
+TKIP
+
+Which of the following answers refers to a protocol used to set up secure connections and exchange of cryptographic keys in IPsec VPNs?
+SSL
+IKE (Correct)
+ESP
+DHE 
+
+Which of the answers listed below refers to a key exchange protocol that generates temporary keys for each session, providing forward secrecy to protect past and future communications?
+PFS
+SHA 
+PGP
+DHE (Correct)
+
+Which of the following answers refers to a cryptographic key exchange protocol that leverages ECC for enhanced security and efficiency?
+S/MIME
+ECDHE (Correct)
+DHE 
+ECDSA
+
+Which of the answers listed below refers to a solution designed to strengthen the security of session keys?
+ECB
+PFS (Correct)
+EFS
+PFX 
+
+Which of the following answers refers to a public-key cryptosystem that leverages the mathematical properties of large prime numbers to facilitate secure key exchange, create digital signatures, and encrypt data?
+ECC
+RSA (Correct)
+PKI
+DSA
+
+Which cryptographic solution would be best suited for low-power devices, such as IoT devices, embedded systems, and mobile devices?
+ECC (Correct)
+DES 
+RSA
+AES
+
+Which of the cryptographic algorithms listed below is the least vulnerable to attacks?
+AES (Correct)
+DES
+RC4
+3DES
+
+===== Bank 4 =====
+
+Which of the following answers refers to a legacy symmetric-key block cipher encryption algorithm?
+RC4 
+DES (Correct)
+RSA
+DSA
+
+Which of the answers listed below refers to a deprecated stream cipher used in some legacy applications, such as WEP?
+RSA
+DES
+SSL 
+RC4 (Correct)
+
+Which of the following answers refers to a deprecated (largely replaced by AES) symmetric-key block cipher encryption algorithm?
+ECDSA
+RSA
+IDEA (Correct)
+DSA
+
+What is the recommended replacement for DES?
+DSA
+RSA
+RC4
+AES (Correct)
+
+An IV is a random or pseudorandom value used in cryptography to ensure that the same plaintext input does not produce the same ciphertext output, even when the same encryption key is used. The IV is typically used with encryption algorithms in block cipher modes to enhance security by introducing randomness to the encryption process.
+True (Correct)
+False
+
+Which of the answers listed below refers to a logical operation commonly used in the context of cybersecurity, particularly in encryption and obfuscation techniques?
+AND
+OR
+NOT
+XOR (Correct)
+
+Which of the following answers refers to a block cipher mode that works by chaining the ciphertext blocks together, such that each ciphertext block depends on the previous block?
+CBC (Correct)
+GCM
+ECB
+CFB
+
+Which block mode transforms a block cipher into a stream cipher enabling the encryption of individual bits or bytes of data?
+CFB (Correct)
+CBC
+GCM
+ECB
+
+A block cipher mode that combines a unique counter with encryption key to generate a stream of pseudorandom data blocks which are then used for encrypting data is called:
+CBC
+GCM
+CFB
+CTM (Correct)
+
+Which of the block cipher modes listed below is the simplest/weakest and therefore not recommended for use?
+CBC 
+GCM
+ECB (Correct)
+CTM
+
+Which block cipher mode combines CTM for encryption with an authentication mechanism to ensure both data confidentiality and integrity?
+CBC
+GCM (Correct)
+ECB
+CFB
+
+In cryptography, the number of bits in a key used by a cryptographic algorithm is referred to as key size or key length. The key length determines the maximum number of combinations required to break the encryption algorithm, therefore typically a longer key means stronger cryptographic security.
+True (Correct)
+False
+
+Which AES key length provides the highest level of security?
+128-bit key
+192-bit key
+256-bit key (Correct)
+320-bit key
+
+Which of the following answers refers to an embedded microcontroller used for secure boot, disk encryption, and system integrity verification?
+TPM (Correct)
+SoC
+UEFI
+HSM
+
+Which of the answers listed below refers to a piece of hardware and associated software/firmware designed to provide cryptographic and key management functions?
+EFS
+HSM (Correct)
+SFC
+TPM
+
+Which of the following answers refers to a centralized server that is used to distribute cryptographic keys and authenticate users and services within a computer network?
+PKI
+RAS
+KDC (Correct)
+NAS
+
+In a Kerberos-protected network, this type of secure token is granted to users during their initial login to enable them access to multiple network services without the need to re-enter their login credentials.
+OTP
+TGT (Correct)
+AS
+TGS
+
+In cryptography and security, the term "Secure enclave" typically refers to a protected and isolated hardware or software environment within a computing device, such as a smartphone, tablet, or computer, where sensitive data and cryptographic operations can be stored and processed securely.
+True (Correct)
+False
+
+The term "Obfuscation" is used to describe techniques employed to obscure or hide the true meaning or nature of data, making it challenging for unauthorized parties to decipher or reverse-engineer the information.
+True (Correct)
+False
+
+What is the purpose of steganography?
+Checking data integrity
+Verifying hash values
+Hiding data within another piece of data (Correct)
+Encrypting data
+
+In the field of data security, the term "Tokenization" refers to the process of replacing sensitive data with nonsensitive information which holds a reference to the original data and enables its processing but has no value when breached.
+True (Correct)
+False
+
+Replacing password characters in a password field with a series of asterisks is an example of:
+Data masking (Correct)
+Tokenization
+Anonymization
+Pseudo-anonymization
+
+A hash function is a mathematical algorithm that maps data of arbitrary size to a fixed-size hash value, typically represented as a short string of characters. The hash function result, also known as a digest or checksum, provides a unique representation of the original data input. The functionality of hash functions relies on the fact that if there is any change to the data after the original hash was generated, the new hash value calculated after content modification will be different from the original result because hash functions are designed to be sensitive to changes in the input data.
+True (Correct)
+False
+
+Hash functions find use in a variety of applications, including:
+Cryptography
+Data integrity verification
+Password verification and storage
+Digital signatures
+Blockchain technology
+All of the above (Correct)
+
+Which of the answers listed below refers to a cryptographic hash function that has been widely used in the past but is now considered deprecated for security-sensitive applications due to known vulnerabilities?
+MD5 (Correct)
+SHA
+CRC
+HMAC
+
+Which of the following enables the exchange of information between computer programs?
+API (Correct)
+UI
+Device drivers
+SDK
+
+What is the purpose of a DoS attack?
+Code injection
+Resource exhaustion (Correct)
+Malware infection
+Privilege escalation
+
+A situation in which an application fails to properly release memory allocated to it or continually requests more memory than required is known as:
+Memory leak (Correct)
+Buffer overflow
+Race condition
+Integer overflow
+
+SSL stripping is an example of: (Select 2 answers)
+Brute-force attack
+Downgrade attack (Correct)
+Watering hole attack
+On-path attack (Correct)
+Denial-of-Service (DoS) attack
+
+Which of the following alters the external behavior of an application and at the same time does not introduce any changes to the application's code?
+Shimming (Correct)
+Refactoring
+API call 
+Sideloading
+
+The practice of modifying an application's code without changing its external behavior is referred to as:
+API call
+Refactoring (Correct)
+Sideloading 
+Shimming
+
+Which of the following terms refer to software/hardware driver manipulation techniques? (Select 2 answers)
+Prepending 
+Fuzz testing
+Refactoring (Correct)
+Shimming (Correct)
+Sideloading
+
+A technique that allows an attacker to authenticate to a remote server without extracting cleartext password from a digest is called:
+Pass the hash (Correct)
+Replay attack 
+Brute-force attack
+Spraying attack
+
+ The term "Evil twin" refers to a rogue Wireless Access Point (WAP) set up for eavesdropping or stealing sensitive user data. Evil twin replaces the legitimate access point and by advertising its own presence with the same Service Set Identifier (SSID, a.k.a. network name) appears as a legitimate access point to connecting hosts.
+True (Correct)
+False
+
+Gaining unauthorized access to a Bluetooth device is referred to as:
+Phishing
+Bluejacking 
+Smishing
+Bluesnarfing (Correct)
+
+The practice of sending unsolicited messages over Bluetooth is known as:
+SPIM
+Bluejacking (Correct)
+Vishing
+Bluesnarfing 
+
+A wireless disassociation attack is a type of: (Select 2 answers)
+Cryptographic attack
+Downgrade attack
+Deauthentication attack (Correct)
+Brute-force attack
+Denial-of-Service (DoS) attack (Correct)
+
+A wireless jamming attack is a type of:
+Cryptographic attack
+Denial-of-Service (DoS) attack (Correct)
+Brute-force attack
+Downgrade attack
+
+Which of the following wireless technologies enables identification and tracking of tags attached to objects?
+WTLS
+GPS 
+RFID (Correct)
+WAF
+
+A type of identification badge that can be held within a certain distance of a reader device to authenticate its holder is called:
+Smart card
+ID badge
+Soft token
+RFID badge (Correct)
+
+RFID is vulnerable to:
+Spoofing 
+Eavesdropping
+Data interception
+Replay attacks
+Denial-of-Service (DoS) attacks
+All of the above (Correct)
+
+What is the name of a technology used for contactless payment transactions?
+NFC (Correct)
+SDN
+PED
+WAP
+
+NFC is vulnerable to:
+Data interception 
+Replay attacks
+Denial-of-Service (DoS) attacks
+All of the above (Correct)
+
+Which of the following provide randomization during encryption process? (Select 2 answers)
+Salting (Correct)
+Rainbow tables
+Obfuscation
+Initialization Vector (IV) (Correct)
+Shimming
+
+Which of the following statements can be used to describe the characteristics of an on-path attack? (Select all that apply)
+An on-path attack is also known as MITM attack (Correct)
+In an on-path attack, attackers place themselves on the communication route between two devices (Correct)
+In an on-path attack, attackers intercept or modify packets sent between two communicating devices (Correct)
+In an on-path attack, attackers do not have access to packets exchanged during the communication between two devices
+In an on-path attack, attackers generate forged packets and inject them in the network
+
+An attacker managed to associate his/her MAC address with the IP address of the default gateway. In result, a targeted host is sending network traffic to the attacker's IP address instead of the IP address of the default gateway. Based on the given info, which type of attack is taking place in this scenario?
+ARP poisoning (Correct)
+Replay attack
+Cross-site request forgery
+DNS poisoning
+
+Media Access Control (MAC) flooding is a network attack that compromises the security of a network switch by overflowing its memory used to store the MAC address table.
+True (Correct)
+False
+
+An attack that relies on altering the burned-in address of a NIC to assume the identity of a different network host is known as: (Select 2 answers)
+ARP poisoning 
+On-path attack
+MAC spoofing (Correct)
+Replay attack
+MAC cloning (Correct)
+
+Which of the following fall(s) into the category of Layer 2 attacks? (Select all that apply)
+MAC cloning (Correct)
+ARP poisoning (Correct)
+MAC flooding (Correct)
+DNS poisoning 
+MAC spoofing (Correct)
+
+The term "Domain hijacking" refers to a situation in which domain registrants due to unlawful actions of third parties lose control over their domain names.
+True (Correct)
+False 
+
+===== Bank 5 =====
+
+Which of the following answers refers to a family of cryptographic hash functions designed for various security-related applications, including digital signatures, password storage, secure communications, and data integrity verification?
+RSA
+AES
+PKCS
+SHA (Correct)
+
+Which of the hash functions listed below offers the highest level of security?
+MD5
+SHA-3 (Correct)
+RIPEMD-160
+HMAC
+
+Which of the following combines a cryptographic hash function with a secret key to provide a means of verifying both the authenticity and integrity of a message or data?
+MD5
+DSA
+HMAC (Correct)
+DES 
+
+Which of the answers listed below refers to a non-cryptographic hash function often used for error-checking purposes?
+MD5
+CRC (Correct)
+SHA
+RIPEMD
+
+Which of the following answers refers to a type of additional input that increases password complexity and provides better protection against brute-force, dictionary, and rainbow table attacks?
+Seed 
+IV
+Salt (Correct)
+Shim
+
+A pseudo-random data added to a password before hashing is referred to as:
+Shim
+Salt (Correct)
+IV
+Seed
+
+Which cryptographic technique is used to prevent the effectiveness of rainbow tables in cracking hashed passwords?
+Data masking
+Two-Factor Authentication (2FA) 
+Key stretching
+Salting (Correct)
+
+Which of the answers listed below refers to a cryptographic technique that verifies the authenticity and integrity of digital documents or messages by using a unique encrypted identifier from the sender?
+Digital signature (Correct)
+Cryptographic hash function
+Digital certificate
+Asymmetric encryption
+
+Which of the following answers refer to algorithms used for generating and verifying digital signatures? (Select 3 answers)
+ECDSA (Correct)
+RSA (Correct)
+ECDHE 
+DSA (Correct)
+GPG/PGP 
+
+Which of the answers listed below refer to DSA? (Select 2 answers)
+Specifically designed for creating and verifying digital signatures (Correct)
+Primarily used for secure communication and digital signatures
+Not well suited for data encryption (DSA is not an encryption algorithm) (Correct)
+Used for both encryption and digital signatures in various applications
+Based on the mathematical properties of large prime numbers
+
+Which of the following answers refer to the characteristic features of RSA? (Select 2 answers)
+Based on the discrete logarithm problem 
+Primarily used for secure communication and digital signatures (Correct)
+Used for data encryption (Correct)
+Specifically designed for creating and verifying digital signatures 
+Not well suited for data encryption
+
+Which of the answers listed below best describe the characteristics of ECDSA? (Select 2 answers)
+Used for digital signatures (Correct)
+Can be used for both encryption and digital signatures
+Does not include a native encryption function (Correct)
+Enables the encryption of data
+Based on the mathematical properties of large prime numbers
+
+Given the computational limitations of IoT devices, smartcards, and mobile devices, which of the following digital signature algorithms would be the most efficient choice due to its smaller key size and lower processing requirements?
+RSA
+ECDHE
+DSA 
+ECDSA (Correct)
+ECC
+
+Key stretching is a cryptographic technique that enhances the security of sensitive data, such as cryptographic keys and passwords. It works by repeatedly applying a resource-intensive function or algorithm to the input data, thus increasing the computational effort required to derive the original key or password, which makes the data more resistant to brute-force, dictionary, or rainbow table attacks.
+True (Correct)
+False
+
+Which of the following is an example of a key stretching algorithm?
+RIPEMD
+SHA
+HMAC 
+PBKDF2 (Correct)
+
+The term "Open public ledger" is used to describe a distributed database stored across multiple computers in a P2P network.
+True (Correct)
+False
+
+Blockchain technology is an example of:
+Online payment gateway
+Centralized database
+Open public ledger (Correct)
+Cloud storage system
+
+Which of the answers listed below refers to a set of standards and specifications that define various cryptographic techniques, including formats for public keys, private keys, digital signatures, and digital certificates?
+ITIL
+RFC
+PKCS (Correct)
+ISO/IEC 
+
+Which of the following defines a file format for storing and exchanging personal identity information, including private keys and digital certificates?
+P10
+P11
+P12 (Correct)
+P13
+
+A type of digital document that verifies the identity of an individual, device, service, or organization in online communications is known as:
+Encryption key
+Digital certificate (Correct)
+Identity token
+Digital signature
+
+What is the role of Registration Authority (RA) in PKI? (Select 2 answers)
+Accepting requests for digital certificates (Correct)
+Validating digital certificates 
+Authenticating the entity making the request (Correct)
+Providing backup source for cryptographic keys 
+Issuing digital certificates
+
+Which of the answers listed below refers to a trusted third party responsible for issuing, revoking, and managing digital certificates?
+RA
+DN
+CA (Correct)
+CSP
+
+Which of the following answers refers to a means for periodic publication of all digital certificates that have been revoked?
+CRL (Correct)
+OSPF
+RA 
+CSR
+
+Which of the answers listed below refers to a protocol that enables on-demand querying of the revocation status of a digital certificate?
+CSP
+OCSP (Correct)
+DN
+CRL 
+
+What is the fastest way to check the validity of a single digital certificate?
+CSR
+DN 
+CRL
+OCSP (Correct)
+
+===== Bank 6 =====
+
+Which of the following answers does not refer to an email communication threat vector?
+Skimming (Correct)
+Malicious attachment
+Social engineering 
+Malicious URL
+Phishing
+
+Which of the following mitigates the risk of supply chain attacks?
+Disaster Recovery Plan (DRP)
+Vendor/intermediary checks (Correct)
+Business Continuity Plan (BCP)
+Incident Response Plan (IRP)
+
+Examples of social media threat vectors include:
+PII harvesting
+Social engineering
+Identity/account theft
+Malicious URLs
+All of the above (Correct)
+
+Which of the following terms refers to threat intelligence gathered from publicly available sources?
+IoC
+OSINT (Correct)
+RFC
+CVE/NVD
+
+Which of the following answers refer to vulnerability databases? (Select 2 answers)
+DBA
+CVE 
+DBaaS
+NVD (Correct)
+AIS
+
+Which of the following statements does not apply to dark web?
+Requires specific software to access its contents 
+Forms a large part of the deep web (Correct)
+Not indexed by traditional search engines
+Frequently associated with illegal activities
+
+A type of forensic evidence that can be used to detect unauthorized access attempts or other malicious activities is called:
+CVE
+IoC (Correct)
+AIS 
+OSINT
+
+Which of the following terms refers to a US government initiative for real-time sharing of cyber threat indicators?
+NVD 
+AIS (Correct)
+TTP
+CVSS
+
+What is STIX?
+Vulnerability database
+Common language for describing cyber threat information (Correct)
+US government initiative for real-time sharing of cyber threat indicators
+Transport mechanism for cyber threat information 
+
+Which of the following terms refers to a dedicated transport mechanism for cyber threat information?
+TCP/IP
+STIX 
+TAXII (Correct)
+S/MIME
+
+GitHub is an example of:
+Digital media store
+Virtualization software
+File/code repository (Correct)
+Social media site
+
+A type of formal document that describes the specifications for a particular technology is known as:
+RFQ
+RFC (Correct)
+RFI
+RFP
+
+Which of the following describes the behavior of a threat actor?
+PII
+TTPs (Correct)
+IPS
+MaaS
+
+A type of attack aimed at exploiting vulnerability that is present in already released software but unknown to the software developer is called:
+Xmas attack
+Zero-day attack (Correct)
+IV attack
+Replay attack
+
+Which of the following answers refers to a deprecated encryption protocol?
+SSH
+TLS
+S/MIME
+SSL (Correct)
+IPsec
+PGP
+
+FTP, HTTP, IMAP, POP, SMTP, and Telnet are all examples of cleartext (i.e. unencrypted) network protocols.
+True (Correct)
+False 
+
+The importance of changing default usernames and passwords can be illustrated on the example of certain network devices (such as routers) which are often shipped with default and well-known admin credentials that can be looked up on the web.
+True (Correct)
+False
+
+Vulnerability scanning: (Select all that apply)
+Identifies lack of security controls (Correct)
+Actively tests security controls
+Identifies common misconfigurations (Correct)
+Exploits vulnerabilities
+Passively tests security controls (Correct)
+
+An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of:
+Fault tolerance
+False positive error (Correct)
+Quarantine function
+False negative error
+
+Which of the following terms refers to a situation where no alarm is raised when an attack has taken place?
+False negative (Correct)
+True positive
+False positive
+True negative
+
+An industry standard for assessing the severity of computer system security vulnerabilities is known as:
+SIEM
+CVSS (Correct)
+OSINT
+SOAR 
+
+Which type of server is used for collecting diagnostic and monitoring data from networked devices?
+Proxy server
+UC server
+Syslog server (Correct)
+ICS server
+
+A security solution designed to detect anomalies in the log and event data collected from multiple network devices is called:
+SNMP
+PCAP
+HIPS
+SIEM (Correct)
+
+Which of the following tools enables automated response to security incidents?
+NIDS 
+SOAR (Correct)
+HIDS
+SIEM
+
+Penetration testing: (Select all that apply)
+Bypasses security controls (Correct)
+Only identifies lack of security controls
+Actively tests security controls (Correct)
+Exploits vulnerabilities (Correct)
+Passively tests security controls
+
+===== Bank 7 =====
+
+Exploiting known vulnerability is a common threat vector for:
+Legacy systems/apps
+Unsupported systems/apps (Correct)
+Newly released systems/apps
+Systems/apps with zero-day vulnerability
+
+A solution that simplifies configuration of new wireless networks by allowing non-technical users to easily configure network security settings and add new devices to an existing network is called:
+WPA
+WPS (Correct)
+WEP
+WAP
+
+Which of the wireless technologies listed below are considered potential threat vectors and should be avoided due to their known vulnerabilities? (Select all that apply)
+WPS (Correct)
+WAP
+WPA (Correct)
+WAF 
+WPA2 (Correct)
+WEP (Correct)
+
+The term "Evil twin" refers to a rogue WAP set up for eavesdropping or stealing sensitive user data. Evil twin replaces the legitimate AP and by advertising its own presence with the same Service Set Identifier (SSID, a.k.a. network name) appears as a legitimate AP to connecting hosts.
+True (Correct)
+False
+
+Which of the following answers refers to a threat vector characteristic only to wired networks?
+ARP Spoofing
+VLAN hopping
+Cable tapping (Correct)
+Port sniffing
+All of the above 
+
+Examples of threat vectors related to Bluetooth communication include: bluesmacking (a type of DoS attack that targets Bluetooth devices by overwhelming them with excessive traffic), bluejacking (the practice of sending unsolicited messages or data to a Bluetooth-enabled device), bluesnarfing (gaining unauthorized access to a Bluetooth device and data theft), and bluebugging (gaining remote control over a Bluetooth device).
+True (Correct)
+False
+
+Which of the answers listed below refers to the most probable cause of an unauthorized access caused by the exploitation of a specific network entry point?
+Outdated AV software
+Browser cookies
+Open service ports (Correct)
+Insufficient logging and monitoring
+
+The importance of changing default usernames and passwords can be illustrated by the example of certain network devices (such as routers), which are often shipped with default and well-known admin credentials that can be looked up on the web.
+True (Correct)
+False
+
+Which of the following would be the best solution for a company that needs IT services but lacks any IT personnel?
+MSA
+MaaS 
+MSP (Correct)
+MSSP
+
+Which of the terms listed below refers to a third-party vendor offering IT security management services? (Select best answer)
+MSP 
+MaaS
+MSA
+MSSP (Correct)
+
+Which of the following answers refer to common threat vectors that apply to MSPs, vendors, and suppliers in the supply chain? (Select 2 answers)
+Compliance violations 
+Brand reputation damage
+Propagation of malware (Correct)
+Operational disruptions 
+Social engineering techniques (Correct)
+
+A social engineering technique whereby attackers under disguise of a legitimate request attempt to gain access to confidential information is commonly referred to as:
+Phishing (Correct)
+Smishing
+Pharming
+Spoofing
+
+Which social engineering attack relies on identity theft?
+Pretexting
+Spear phishing
+Tailgating
+Impersonation (Correct)
+
+A BEC attack is an example of:
+Smishing
+Phishing (Correct)
+Vishing 
+Pharming
+
+Which of the answers listed below refers to a social engineering technique where an attacker creates a false scenario or situation to deceive the victim into revealing sensitive information?
+Impersonation
+Credential harvesting
+Pretexting (Correct)
+Watering hole attack
+
+Which of the following terms refers to a platform used for watering hole attacks?
+Mail gateways 
+Websites (Correct)
+PBX systems
+Web browsers
+
+The term "URL hijacking" (a.k.a. "Typosquatting") refers to a deceptive practice involving the deliberate registration of domain names with misspellings or slight variations that closely resemble well-established and popular domain names. The primary goal of this strategy is to exploit the common typographical errors made by users while entering URLs into their web browser's address bar. Beyond capturing inadvertent traffic, typosquatting may also be used for hosting phishing sites to trick users into divulging sensitive information, distributing malware through deceptive websites, generating ad revenue by redirecting mistyped traffic, or engaging in brand impersonation to harm the reputation of authentic brands or deceive users.
+True (Correct)
+False
+
+Which type of application attack relies on introducing external code into the address space of a running program?
+Buffer overflow 
+Memory injection (Correct)
+Replay attack
+Pointer dereference
+
+A collection of precompiled functions designed to be used by more than one Microsoft Windows application simultaneously to save system resources is known as:
+DLL (Correct)
+API 
+EXE
+INI
+
+Which of the answers listed below refers to an application attack that relies on executing a library of code?
+Memory leak
+DLL injection (Correct)
+Pointer dereference
+Buffer overflow
+
+A type of exploit in which an application overwrites the contents of a memory area it should not have access to is called:
+DLL injection
+Buffer overflow (Correct)
+Memory leak
+Privilege escalation
+
+A malfunction in a preprogrammed sequential access to a shared resource is described as:
+Race condition (Correct)
+Concurrency error
+Multithreading
+Synchronization error
+
+A type of vulnerability where the state of a resource is verified at one point in time but may change before the resource is actually used is referred to as:
+TOC
+TOC/TOU (Correct)
+TOU
+TSIG
+
+A malicious application update is a type of malware that can be installed through a seemingly legitimate software update. The introduction of a malicious update into the application code can be enabled through various means, including:
+Unsigned application code
+Unencrypted update channel (HTTP vs HTTPS)
+Fake update website
+Unauthorized access to update server
+Compromised software development process
+All of the above (Correct)
+
+Which of the following answers does not refer to a common type of OS-based vulnerability?
+Access control and permissions vulnerabilities (weak passwords, privilege escalation)
+Vulnerabilities in installed applications, system utilities, and device drivers
+Memory-related vulnerabilities (memory leaks, buffer overflows, race conditions)
+Patch and update management vulnerabilities (security patch and update delays, malicious updates)
+Vulnerabilities related to system/security misconfigurations
+Network-related vulnerabilities (DoS attacks, remote code execution attacks)
+All of the above answer choices are examples of OS-based vulnerabilities (Correct)
+
+===== Bank 8 =====
+
+Which of the answers listed below refers to a security vulnerability that enables inserting malicious code into input fields, such search bars or login forms, to execute unauthorized commands on a database?
+RCE
+SQLi (Correct)
+XSS
+CSRF
+
+Which of the following indicates an SQL injection attack attempt?
+DELETE FROM itemDB WHERE itemID = '1';
+SELECT * FROM users WHERE userName = 'Alice' AND password = '' OR '1' = '1'; (Correct)
+DROP TABLE itemDB;
+SELECT * FROM users WHERE email = 'example@example.com' AND password = '';
+
+Which of the answers listed below describe the characteristics of a cross-site scripting attack? (Select 3 answers)
+Exploits the trust a user's web browser has in a website (Correct)
+A malicious script is injected into a trusted website (Correct)
+User's browser executes attacker's script (Correct)
+Exploits the trust a website has in the user's web browser
+A user is tricked by an attacker into submitting unauthorized web requests
+Website executes attacker's requests 
+
+Which of the following answers refers to a type of software embedded into a hardware chip?
+Firmware (Correct)
+Middleware
+Device driver
+Machine code
+
+Which of the terms listed below refers to a situation in which a product or service may no longer receive security patches or other updates, making it more vulnerable to attack?
+EOL (Correct)
+ALM
+EOS
+SDLC
+
+What is the main vulnerability related to legacy hardware?
+Compatibility issues
+Lack of security updates and patches (Correct)
+Worn-out physical components
+Lack of skilled personnel to run it and maintain it
+
+The term "VM escape" refers to the process of breaking out of the boundaries of a guest operating system installation to access the primary hypervisor controlling all the virtual machines on the host machine.
+True (Correct)
+False
+
+Which of the following answers refers to a virtualization-related vulnerability where virtualized assets allocated to one VM are improperly isolated and can be accessed or compromised by another VM?
+Resource reuse (Correct)
+Privilege escalation
+Resource exhaustion
+Concurrent session usage 
+
+Which of the answers listed below refers to a cloud-related vulnerability type?
+Insecure APIs
+Poor access controls
+Lack of security updates
+Misconfigured cloud storage
+Shadow IT / Malicious insiders
+All of the above (Correct)
+
+The practice of installing mobile apps from websites and app stores other than the official marketplaces is referred to as:
+Jailbreaking
+Rooting
+Sideloading (Correct)
+Carrier unlocking
+
+Which of the following terms is used to describe the process of removing software restrictions imposed by Apple on its iOS operating system?
+Sideloading
+Carrier unlocking
+Rooting
+Jailbreaking (Correct)
+
+The term "Rooting" refers to the capability of gaining administrative access to the operating system and system applications on:
+Android devices (Correct)
+iOS devices
+Microsoft devices
+All types of mobile devices
+
+A type of attack aimed at exploiting vulnerability that is present in already released software but unknown to the software developer is known as:
+On-path attack
+IV attack
+Zero-day attack (Correct)
+Replay attack
+
+Malware that restricts access to a computer system by encrypting files or locking the entire system down until the user performs requested action is called:
+Grayware
+Adware
+Ransomware (Correct)
+Spyware
+
+A Trojan horse is a type of software that performs harmful actions under the guise of a legitimate and useful program. The most characteristic feature of Trojan horse is that while it may function as a legitimate program and possess all the expected functionalities, it also contains a concealed portion of malicious code that the user is unaware of.
+True (Correct)
+False
+
+Which type of Trojan enables unauthorized remote access to a compromised system?
+APT
+RAT (Correct)
+MaaS
+PUP
+
+A standalone malicious computer program that typically propagates itself over a computer network to adversely affect system resources and network bandwidth is referred to as:
+Worm (Correct)
+Fileless virus
+Bot
+Logic bomb
+
+Malicious software collecting information about users without their knowledge/consent is known as:
+Cryptomalware
+Adware
+Ransomware
+Spyware (Correct)
+
+Which of the answers listed below refer to the characteristic features of bloatware? (Select 3 answers)
+Pre-installed on a device by the device manufacturer or retailer (Correct)
+Generally considered undesirable due to negative impact on system performance (Correct)
+Installed without user consent (Correct)
+Can be pre-installed, downloaded, or bundled with other software 
+Generally considered undesirable due to negative impact on system performance, privacy, and security 
+
+Which of the following answers refer to the characteristics of a PUP? (Select 3 answers)
+Often installed without clear user consent (Correct)
+Can be pre-installed, downloaded, or bundled with other software (Correct)
+Generally considered undesirable due to negative impact on system performance, privacy, and security (Correct)
+Pre-installed on a device by the device manufacturer or retailer
+Generally considered undesirable due to negative impact on system performance
+
+Which of the statements listed below apply to the definition of a computer virus? (Select 3 answers)
+A self-replicating computer program containing malicious segment (Correct)
+Malware that typically requires its host application to be run to make the virus active (Correct)
+A standalone malicious computer program that replicates itself over a computer network
+Malware that can run by itself without any interaction
+Malicious code that typically attaches itself to an application program or other executable component (Correct)
+A self-contained malicious program or code that does need a host to propagate itself 
+
+Which of the following is an example of spyware?
+Keylogger (Correct)
+Vulnerability scanner
+Computer worm
+Packet sniffer
+
+Malicious code activated by a specific event is called:
+Cryptomalware
+Backdoor
+Rootkit
+Logic bomb (Correct)
+
+Which of the following answers refers to a collection of software tools used by a hacker to mask intrusion and obtain administrator-level access to a computer or computer network?
+Rootkit (Correct)
+Spyware
+Backdoor
+Trojan
+
+The term "RFID cloning" refers to copying the data stored on any RFID-enabled device (including tags, cards, key fobs, implants, and other objects embedded with RFID technology) onto another RFID-enabled device, which then can be read and used in the same way as the original tag. While RFID cloning can be utilized for legitimate purposes, such as replicating important tags for backup and testing purposes, it also poses significant security risk, as duplicate tags can potentially be used for gaining unauthorized access or unauthorized information disclosure.
+True (Correct)
+False
+
+===== Bank 9 =====
+
+A type of hierarchical database structure used in Windows Server environments that enables centralized management of users, devices and resources on a network is known as:
+HomeGroup
+Active Directory (AD) (Correct)
+Workgroup
+Windows domain
+
+An authentication subsystem in which a single set of authentication credentials provides access to multiple systems across different organizations is called:
+AAA framework
+Multi-factor authentication
+Group-based access control
+Federation (Correct)
+
+Which of the following answers describe the features of TOTP? (Select 3 answers)
+Vulnerable to replay attacks
+Based on a cryptographic hash function and a secret cryptographic key 
+Valid for multiple login sessions
+Based on a shared secret key and current time (Correct)
+Not vulnerable to replay attacks (Correct)
+Valid for only one login session (Correct)
+
+Which of the following answers refer to the characteristics of HOTP? (Select 3 answers)
+Valid for only one login session (Correct)
+Based on a shared secret key and current time
+Vulnerable to replay attacks 
+Based on a cryptographic hash function and a secret cryptographic key (Correct)
+Valid for multiple login sessions 
+Not vulnerable to replay attacks (Correct)
+
+Which of the following are examples of hardware authentication tokens? (Select 3 answers)
+Key fob (Correct)
+Cable lock
+Passphrase
+Biometric reader
+RFID badge (Correct)
+Smart card (Correct)
+
+Which of the following is an example of a soft authentication token?
+USB token
+Authenticator app (Correct)
+Smart card
+Key fob
+
+Examples of static authentication methods include: (Select 2 answers)
+Token generator
+User-generated password (Correct)
+Short Message Service (SMS)
+Personal Identification Number (PIN) (Correct)
+Push notification
+
+An authenticator application is a software that generates additional authentication token (in the form of a random code) used in multi-step verification process.
+True (Correct)
+False
+
+Which of the following does not have an application in the authentication process?
+One-time passwords
+SMS messages
+Hardware / Software tokens
+Static codes
+Push notifications
+Phones
+All of the above can be used in the authentication process (Correct)
+
+Which of the following answers refers to an example implementation of certificate-based authentication?
+Smart card (Correct)
+ID badge
+PIN code
+Biometric lock
+
+In computer security, the term "Biometrics" refers to physical characteristics of the human body that can be used for identification and access control purposes.
+True (Correct)
+False
+
+Which of the following is not used in the process of biometric authentication?
+Fingerprint scan
+Voice recognition
+Vein analysis
+Retina / Iris scan
+Face recognition
+Gait analysis
+All of the above can be used in the biometric authentication process (Correct)
+
+A measure of the likelihood that a biometric security system will incorrectly accept an access attempt by an unauthorized user is known as:
+CRC
+FAR (Correct)
+CER
+FRR
+
+A measure of the likelihood that a biometric security system will incorrectly reject an access attempt by an authorized user is referred to as:
+FAR
+CER
+CRC
+FRR (Correct)
+
+Which of the answers listed below refers to a type of metric used for evaluation of a biometric security system's accuracy?
+FRR
+CRC 
+FAR
+CER (Correct)
+
+Authentication process can be based on various categories of authentication factors and attributes. Authentication factors include unique physical traits of each individual such as fingerprints ("something you are"), physical tokens such as smart cards ("something you have"), or usernames and passwords ("something you know"). The categories of authentication attributes include geolocation ("somewhere you are"), user-specific activity patterns, such as keyboard typing style ("something you can do"), revealing something about an individual, e.g. wearing an ID badge ("something you exhibit"), or proving the relation with a trusted third party ("someone you know"). Multifactor authentication systems require implementation of authentication factors from two or more distinct categories.
+True (Correct)
+False
+
+Which of the following fall into the category of MFA factors? (Select 3 answers)
+GPS reading
+Handwritten signature
+PIN (Correct)
+Chain of trust
+USB token (Correct)
+Gait analysis 
+Retina scan (Correct)
+
+Examples of MFA attributes include: (Select all that apply)
+USB token
+Retina scan 
+Handwritten signature (Correct)
+Gait analysis (Correct)
+GPS reading (Correct)
+PIN 
+Chain of trust (Correct)
+
+Which of the following examples meets the requirement of multifactor authentication?
+Password and biometric scan (Correct)
+Username and PIN
+Smart card and ID badge
+Voice recognition and fingerprint scan
+
+Which part of the AAA security architecture deals with the verification of the identity of a person or process?
+Authentication (Correct)
+Authorization
+Accounting
+
+Which of the answers listed below refers to the process of granting or denying access to resources?
+Authentication
+Authorization (Correct)
+Accounting
+
+In the AAA security architecture, the process of tracking accessed services as well as the amount of consumed resources is called:
+Authentication
+Authorization
+Accounting (Correct)
+
+A dedicated data storage solution that combines multiple disk drive components into a single logical unit to increase volume size, performance, or reliability is referred to as:
+Storage Area Network (SAN)
+Load balancer
+Redundant Array of Independent Disks (RAID) (Correct)
+Network-Attached Storage (NAS)
+
+Which of the following RAID levels does not offer fault tolerance?
+RAID 6
+RAID 10
+RAID 5
+RAID 0 (Correct)
+RAID 1
+
+Hardware RAID Level 0: (Select all that apply)
+Requires a minimum of 2 drives to implement (Correct)
+Is also known as disk striping (Correct)
+Decreases reliability (failure of any disk in the array destroys the entire array) (Correct)
+Is also referred to as disk mirroring 
+Offers less volume capacity in comparison to RAID 1
+Requires at least 3 drives to implement
+Is suitable for systems where performance has higher priority than fault tolerance (Correct)
+Offers improved reliability by creating identical data sets on each drive (failure of one drive does not destroy the array as each drive contains identical copy of the data)
+
+===== Bank 10 =====
+
+Which of the following URLs is a potential indicator of a directory traversal attack?
+http://www.example.com/var/../etc/passwd
+http://www.example.com/var/www/../../etc/passwd
+http://www.example.com/var/www/files/../../../etc/passwd
+http://www.example.com/var/www/files/images/../../../../etc/passwd
+Any of the above (Correct)
+
+A type of cryptographic attack that forces a network protocol to revert to its older, less secure version is known as:
+Downgrade attack (Correct)
+Replay attack
+Deauthentication attack
+Spraying attack
+
+A hash collision occurs when cryptographic hash function produces two different digests for the same data input.
+True
+False (Correct)
+
+Which cryptographic attack relies on the concepts of probability theory?
+Brute-force
+KPA
+Dictionary
+Birthday (Correct)
+
+A short list of commonly used passwords tried against large number of user accounts is a characteristic feature of:
+Replay attack
+Dictionary attack 
+Spraying attack (Correct)
+Birthday attack
+
+Which password attack bypasses account-lockout policies?
+Birthday attack
+Replay attack 
+Spraying attack (Correct)
+Dictionary attack
+
+An attack against encrypted data that relies heavily on computing power to check all possible keys and passwords until the correct one is found is called:
+Replay attack
+Brute-force attack (Correct)
+Dictionary attack
+Birthday attack
+
+One of the measures for bypassing the failed logon attempt account lockout policy is to capture any relevant data that might contain the password and brute force it offline.
+True (Correct)
+False
+
+A type of forensic evidence that can be used to detect unauthorized access attempts or other malicious activities is called:
+CVE
+IoC (Correct)
+AIS
+OSINT
+
+An account lockout might indicate which type of malicious activity?
+Attempt to deliver malicious content
+DoS attack
+Account compromise
+Password brute-forcing attempt (Correct)
+
+Which of the terms listed below most accurately describes a situation wherein a single account is being used from multiple locations/devices at the same time?
+Spraying attack
+Concurrent session usage (Correct)
+Single Sign-On (SSO)
+Impossible travel
+
+Which of the following terms refers to a malicious activity indicator in a situation where a firewall or other security measure prevents an attempt to deliver malicious payload or perform an unauthorized action?
+DoS attack
+Resource inaccessibility
+Blocked content (Correct)
+Excessive system resource consumption
+
+Which of the terms listed below most accurately describes a situation wherein an account is accessed from a location that is physically impossible for the user to be in?
+Login time restrictions
+Impossible travel (Correct)
+Concurrent session usage
+Out-of-cycle logging
+
+The term "Out-of-cycle logging" refers to instances where systems or applications produce logs outside their regular intervals or in abnormal volumes, potentially signaling malicious activity.
+True (Correct)
+False
+
+Which of the following would indicate an attempt to hide evidence of malicious activity?
+Account lockout
+Resource inaccessibility
+Missing logs (Correct)
+Concurrent session usage
+
+Which of the terms listed below refers to a logical grouping of computers that allow computer hosts to function as if they were attached to the same broadcast domain regardless of their physical location?
+VLAN (Correct)
+DMZ
+SNMP community
+VPN 
+
+What is the name of a solution that increases the efficiency of IP address space management by allowing network administrators to divide networks into subnets of different sizes?
+DNAT
+VLSM (Correct)
+MPLS
+VLAN 
+
+Which of the following provides granular control over user access to specific network segments and resources based on their assigned roles and permissions?
+EDR
+IAM (Correct)
+AAA 
+IPS
+
+Which of the answers listed below refers to a solution that allows for easier management and control of network segmentation policies through software applications?
+VDI 
+SDN (Correct)
+VPC
+EDR
+
+Which of the following acronyms refers to a set of rules that specify which users or system processes are granted access to objects as well as what operations are allowed on a given object?
+ACL (Correct)
+MFA
+NAC
+AUP 
+
+A rule-based access control mechanism implemented on routers, switches, and firewalls is referred to as:
+MAC
+AUP
+DAC
+ACL (Correct)
+
+Which of the answers listed below refers to a rule-based access control mechanism associated with files and/or directories?
+EFS
+FACL (Correct)
+FIM
+NTFS 
+
+Which of the following policies applies to any requests that fall outside the criteria defined in an ACL?
+Fair access policy
+Implicit deny policy (Correct)
+Transitive trust
+Context-aware authentication
+
+Which of the answers listed below does not refer to the concept of network isolation?
+VLANs
+Subnetting
+DLP (Correct)
+Firewalls
+DMZs
+NAC 
+SDN
+Air gaps
+Zero Trust network architecture
+
+Which of the following answers does not refer to the concept of system/application isolation?
+Virtualization
+Containerization
+Sandboxing
+Data encryption (Correct)
+
+===== Bank 11 =====
+
+Which of the answers listed below refer to the concept of data isolation? (Select 2 answers)
+DLP 
+SDN
+EFS (Correct)
+SWG
+EDR
+
+A type of firewall used for protecting a single computer is commonly referred to as: (Select 2 answers)
+Hardware firewall
+Host-based firewall (Correct)
+Proxy firewall
+Network-based firewall
+Personal firewall 
+
+Which of the following provides active network security breach response on an individual computer system?
+NIDS
+HIDS
+NIPS
+HIPS (Correct)
+
+The process of securing networking devices should include the practice of disabling unused physical and logical ports.
+True (Correct)
+False
+
+The importance of changing default usernames and passwords can be illustrated on the example of certain network devices (such as routers) which are often shipped with default and well-known admin credentials that can be looked up on the web.
+True (Correct)
+False
+
+A type of document outlining the shared responsibilities between a CSP and its customers for securing and managing data and resources is known as: (Select best answer)
+Service level agreement
+Acceptable use policies
+Cloud responsibility matrix (Correct)
+Master Service agreement
+
+The term "Hybrid cloud" refers to a mixed computing environment that can include different cloud service models like public and private clouds, as well as on-premises infrastructure.
+True (Correct)
+False
+
+Which of the terms listed below refers to a method for managing infrastructure resources through scripts and templates?
+IaaS 
+ML
+IaC (Correct)
+SDN
+
+A serverless architecture allows developers to create apps and services without having to manage the required infrastructure resources (such as servers, databases, and storage systems), which are handled by:
+CSP (Correct)
+ISP
+MSP
+IdP
+
+In software engineering, the term "Microservice" describes independent and self-contained code components that can be put together to form an application.
+True (Correct)
+False
+
+Which of the following provides isolation from external computer networks?
+Network segmentation
+Air gap (Correct)
+Hardware firewall
+Protected cable distribution
+
+Which of the answers listed below refers to a means for logical network segmentation?
+Switch
+VLAN (Correct)
+Screened subnet
+Router
+
+Which of the following answers refers to software technology designed to simplify network infrastructure management?
+SDN (Correct)
+SaaS 
+VDI
+SNMP
+
+Which of the answers listed below refers to the process of packaging an application and its dependencies into a single, self-contained unit, which can run across different computing environments?
+Edge computing
+Containerization (Correct)
+Virtualization
+Cloud computing
+
+Which of the following answers refers to a solution that allows multiple OSs to work simultaneously on the same hardware?
+Clustering
+Hyperthreading
+Multitasking
+Virtualization (Correct)
+
+Which of the answers listed below refers to a network of interconnected devices equipped with sensors (such as wearable tech or home automation devices) that can interact with each other to perform various tasks and functions?
+ICS
+PAN
+IoT (Correct)
+SoC
+
+Which of the following refers to a broad term that encompasses various control and automation systems used in industrial settings to control and monitor physical processes and machinery?
+ICS (Correct)
+PLC
+SCADA 
+HMI
+
+Which of the answers listed below refers to a specific type of ICS?
+SoC
+CMS 
+SCADA (Correct)
+RTOS
+
+Which of the following answers refers to an OS type characterized by low delay between the execution of tasks required in specific applications, such as in military missile guidance systems or in automotive braking systems?
+Unix-like OS
+SoC
+Firmware
+RTOS (Correct)
+
+Which of the answers listed below refer(s) to embedded systems? (Select all that apply)
+Often designed to operate in real-time or with low latency (Correct)
+Typically equipped with constrained computing resources and storage (Correct)
+Designed to perform a single task or a few closely related tasks within a larger system (Correct)
+Often integrated with hardware components like sensors and actuators (Correct)
+
+Which of the following terms can be used to describe a system designed to aim for minimized downtime and uninterrupted operation?
+ICS
+HA (Correct)
+RTOS 
+SoC
+
+Which of the answers listed below refers to a device failure mode in which maintaining service availability is prioritized over security?
+Fail-safe 
+Fail-close
+Fail-open (Correct)
+Fail-secure
+
+Which failure mode prioritizes security over availability, ensuring that no potentially malicious traffic can get through the device?
+Fail-soft
+Fail-through
+Fail-safe
+Fail-close (Correct)
+
+Which of the following answers refer to passive network monitoring techniques? (Select 2 answers)
+Network tap (Correct)
+Trunk port
+Port mirroring (Correct)
+SNMP trap
+Registered port
+
+A type of hardened server used as a secure gateway for remote administration of devices placed in a different security zone is called:
+C2 server 
+Jump server (Correct)
+UC server
+Proxy server
+
+===== Bank 12 =====
+
+A computer system or an application that acts as an intermediary between another computer and the Internet is commonly referred to as:
+Bridge
+Active hub
+Server
+Proxy (Correct)
+
+Which of the answers listed below refers to a solution that simplifies web browser configurations by using predefined rules or scripts to make server selection decisions for specific web traffic?
+PAC (Correct)
+DDNS
+PAM
+NAT 
+
+Which of the following provides passive network security breach response on an individual computer system?
+HIDS (Correct)
+NIPS
+HIPS 
+NIDS
+
+Which of the answers listed below refer to the characteristic features of a NIDS? (Select 3 answers)
+Takes proactive measures to block or mitigate intrusion attempts
+Does not take direct action to block or prevent attacks (Correct)
+Generates alerts and notifies security personnel or administrators when suspicious activity is detected (Correct)
+Monitors network traffic without direct involvement in traffic routing or packet modification (Correct)
+Can drop or reject network packets, terminate connections, or take other actions to stop the attack
+Operates in an inline mode, actively intercepting and inspecting network traffic
+
+Which of the following answers refer to a NIPS? (Select 3 answers)
+Takes proactive measures to block or mitigate intrusion attempts (Correct)
+Generates alerts and notifies security personnel or administrators when suspicious activity is detected
+Operates in an inline mode, actively intercepting and inspecting network traffic (Correct)
+Monitors network traffic without direct involvement in traffic routing or packet modification Does not take direct action to block or prevent attacks
+Can drop or reject network packets, terminate connections, or take other actions to stop the attack (Correct)
+
+Which of the answers listed below refers to network security technology designed to monitor WLANs for unauthorized access, security threats, and suspicious activities?
+UTM
+WIDS (Correct)
+NGFW 
+WAF
+
+Which of the following answers refers to network security technology designed to monitor, detect, and mitigate unauthorized access, security threats, and suspicious activities in WLANs?
+WIPS (Correct)
+NIDS
+WIDS
+NIPS
+
+A network hardware or software solution designed for managing the optimal distribution of workloads across multiple computing resources is known as:
+Content filter
+Proxy server
+Load balancer (Correct)
+Domain controller
+
+In active-active mode, load balancers distribute network traffic across:
+Least utilized servers
+None of the servers
+All servers (Correct)
+Most utilized servers
+
+In active-passive mode, load balancers distribute network traffic across:
+All servers
+Servers marked as active (Correct)
+Least utilized servers
+Servers marked as passive
+
+Which of the answers listed below refers to an IEEE standard that can be implemented in a situation where an Ethernet switch acts as an authenticator for devices that intend to connect to a network through one of its ports?
+IEEE 802.1X (Correct)
+IEEE 802.11ac
+IEEE 802.1D
+IEEE 802.11x
+
+Extensible Authentication Protocol (EAP) is an authentication framework frequently used in wireless networks and point-to-point connections. EAP provides an authentication framework, not a specific authentication mechanism. There are many authentication mechanisms (referred to as EAP methods) that can be used with EAP. Wireless networks take advantage of several EAP methods, including PEAP, LEAP, EAP-FAST, EAP-TLS, and EAP-TTLS.
+True (Correct)
+False
+
+Which of the following EAP methods offers the highest level of security?
+PEAP
+EAP-FAST
+EAP-TLS (Correct)
+EAP-TTLS
+
+A dedicated security solution that filters, monitors, and blocks HTTP/HTTPS traffic between a web application and the Internet is called:
+UTM
+NGFW
+UEM
+WAF (Correct)
+
+The term "Unified Threat Management" (UTM) refers to a network security solution, commonly in the form of a dedicated device (called UTM appliance or web security gateway), which combines the functionality of a firewall with additional features such as URL filtering, content inspection, spam filtering, gateway antivirus protection, IDS/IPS function, or malware inspection.
+True (Correct)
+False
+
+Which of the answers listed below refers to a firewall type that improves upon first- and second-generation firewalls by offering additional features, such as more in-depth inspection of network traffic and application-level inspection?
+IDS
+Packet filter
+NGFW (Correct)
+Stateful firewall
+
+Which of the following answers refer to the characteristic features of a Layer 4 firewall? (Select 3 answers)
+Operates at the application layer of the OSI model
+Offers complex (slower) traffic filtering
+Filters traffic based on source/destination IP addresses, ports, and protocol types (e.g., TCP/UDP) (Correct)
+Offers basic (faster) traffic filtering (Correct)
+Operates at the transport layer of the OSI model (Correct)
+Adds the ability to inspect the contents of data packets in addition to the header information
+
+Which of the answers listed below refer to a Layer 7 firewall? (Select 3 answers)
+Offers complex (slower) traffic filtering (Correct)
+Filters traffic based on source/destination IP addresses, ports, and protocol types (e.g., TCP/UDP)
+Operates at the transport layer of the OSI model
+Adds the ability to inspect the contents of data packets in addition to the header information (Correct)
+Offers basic (faster) traffic filtering
+Operates at the application layer of the OSI model (Correct)
+
+Examples of protocols typically used for implementing secure VPN tunnels include: (Select all that apply)
+IPsec (Correct)
+SRTP
+TLS ((Correct)
+bcrypt
+L2TP (Correct)
+
+Which of the following terms is used to describe a type of VPN that alleviates bottlenecks and conserves bandwidth by enabling utilization of both the VPN and public network links?
+Split tunnel (Correct)
+Clientless
+Full tunnel
+Remote access
+
+Which VPN type is used for connecting computers to a network? (Select 2 answers)
+Remote access (Correct)
+Intranet-based
+Client-to-site (Correct)
+Site-to-site
+Extranet-based
+
+Which type of VPN enables connectivity between two networks?
+Site-to-site (Correct)
+Host-to-network
+Remote access
+Client-to-site
+
+An HTML5 VPN portal is an example of clientless VPN implementation where an HTML5-compliant web browser along with TLS encryption can be used instead of a dedicated VPN client software.
+True (Correct)
+False
+
+Which of the answers listed below refers to a hardware or software solution providing secure remote access to networks and resources?
+NAC
+RDP
+SSH
+RAS (Correct)
+
+Which of the following answers refers to a protocol designed to secure data transmitted over WLANs?
+SCP
+IPsec
+SSH
+WTLS (Correct)
+
+===== Bank 13 =====
+
+Which of the answers listed below refers to a protocol used to set up secure connections and exchange of cryptographic keys in IPsec VPNs?
+SSL
+IKE (Correct)
+ESP
+DHE
+
+Which part of the IPsec protocol suite provides data integrity and authentication but not encryption?
+CRC
+AH (Correct)
+IKE
+AES
+
+Which part of IPsec provides confidentiality, data integrity, and authentication?
+AES
+SHA
+AH
+ESP (Correct)
+
+Which of the IPsec modes provides entire packet encryption?
+Tunnel (Correct)
+Payload
+Transport
+Default
+
+An IPsec mode providing encryption only for the payload (the data part of the packet) is referred to as:
+Protected mode
+Tunnel mode
+Transport mode (Correct)
+Safe mode
+
+The term "SD-WAN" refers to a network technology that uses software to manage and optimize network connections that extend over large geographic areas.
+True (Correct)
+False
+
+Which of the following answers refers to a cybersecurity framework that combines network and security functions into a single cloud-based service?
+SASE (Correct)
+SWG
+CASB
+SD-WAN
+
+Which of the answers listed below refers to any type of information pertaining to an individual that can be used to uniquely identify that person?
+PHI
+Biometrics
+ID
+PII (Correct)
+
+Which of the following regulates personal data privacy of the EU citizens?
+PHI
+HIPAA
+PCI DSS
+GDPR (Correct)
+
+The US Health Insurance Portability and Accountability Act (HIPAA) provides privacy protection for:
+PII
+PI
+PHI (Correct)
+PIV
+
+The purpose of PCI DSS is to provide protection for:
+Credit cardholder data (Correct)
+Licensed software
+User passwords
+Personal health information
+
+Which of the answers listed below refer(s) to encryption method(s) used to protect data at rest? (Select all that apply)
+FDE (Correct)
+SED (Correct)
+IPsec
+TLS
+VPN
+EFS (Correct)
+
+Encryption methods used to protect data in transit include: (Select all that apply)
+NFS
+VPN (Correct)
+SED
+IPsec (Correct)
+FDE
+TLS (Correct)
+
+Which of the following data states typically requires data to be processed in an unencrypted form?
+Data in motion
+Data at rest
+Data in transit
+Data in use (Correct)
+
+Which of the answers listed below refer to examples of non-human readable data types? (Select 2 answers)
+Binary code (Correct)
+XML files
+Machine language (Correct)
+HTML code
+SQL queries
+
+Which of the following answers refers to an individual or role responsible for overseeing and ensuring compliance with data protection laws and policies within an organization?
+CTO
+DPO (Correct)
+CIO 
+CSO
+
+A mobile device's built-in functionality enabling the usage of locator applications is known as:
+WPS
+GSM
+SIM
+GPS (Correct)
+
+Which of the answers listed below refers to a technology that provides control over the usage of a mobile device within a designated area?
+Geofencing (Correct)
+Captive portal
+Honeypot
+Geolocation
+
+Which of the following converts plaintext data into ciphertext using an algorithm and a key?
+Encryption (Correct)
+Masking
+Tokenization
+Obfuscation
+
+Which of the answers listed below refers to a technique that enables converting input data into a fixed-size string, making it difficult to reverse or retrieve the original data?
+Obfuscation
+Tokenization
+Hashing (Correct)
+Encryption
+
+Which of the following answers refer to data masking? (Select 2 answers)
+Replaces sensitive data with fictitious or modified data while retaining its original format (Correct)
+Allows for data manipulation in environments where the actual values are not needed (Correct)
+Transforms data into an unreadable format using an algorithm and an encryption key
+Creates a unique, fixed-length string from the original data
+Replaces sensitive data with a non-sensitive identifier that has no meaning or value outside the specific system
+
+Which of the answers listed below refers to a situation where sensitive data is stored in a separate location and can be retrieved with a non-sensitive replacement that can also be processed just like the original data without the risk of revealing the contents of original data?
+Masking
+Obfuscation
+Encryption
+Tokenization (Correct)
+
+Which of the following modifies data or code to make it difficult to understand or reverse-engineer, but without necessarily encrypting or hiding the data?
+Tokenization
+Encryption
+Obfuscation (Correct)
+Hashing
+
+Which of the answers listed below refer to the advantages of segmentation as a method for securing data? (Select 3 answers)
+Enhances security by limiting the spread of cyberattacks (Correct)
+Helps organizations comply with data regulatory requirements by isolating and protecting specific data types (Correct)
+Provides security for data in transit with the use of encryption
+Guarantees data recovery in case of accidental deletion or system failures
+Provides better control over user access to sensitive data (Correct)
+
+ACL, FACL, DAC, MAC, and RBAC are all access control mechanisms that can be used to manage user permissions and protect the confidentiality, integrity, and availability of data.
+True (Correct)
+False
+
+===== Bank 14 =====
+
+Hardware RAID Level 0: (Select all that apply)
+Requires a minimum of 2 drives to implement (Correct)
+Is also known as disk striping (Correct)
+Decreases reliability (failure of any disk in the array results in the loss of all data in the array) (Correct)
+Is also referred to as disk mirroring
+Offers less volume capacity in comparison to RAID 1
+Requires at least 3 drives to implement
+Is suitable for systems where performance has higher priority than fault tolerance (Correct)
+Offers improved reliability by creating identical data sets on each drive (failure of one drive does not destroy the array as each drive contains identical copy of the data)
+
+Hardware RAID Level 1: (Select 3 answers)
+Requires at least 2 drives to implement (Correct)
+Is also known as disk striping
+Offers improved performance in comparison to RAID 0
+Requires at least 3 drives to implement
+Offers improved reliability by creating identical data sets on each drive (failure of one drive does not destroy the array as each drive contains identical copy of the data) (Correct)
+Is also referred to as disk mirroring (Correct)
+
+Hardware RAID Level 5: (Select 3 answers)
+Requires at least 2 drives to implement
+Continues to operate in case of failure of more than 1 drive
+Is also known as disk striping with double parity
+Requires at least 3 drives to implement (Correct)
+Offers increased performance and fault tolerance (single drive failure does not destroy the array and lost data can be re-created by the remaining drives) (Correct)
+Requires at least 4 drives to implement
+Is also known as disk striping with parity (Correct)
+
+Hardware RAID Level 6: (Select 3 answers)
+Is also known as disk striping with parity
+Requires at least 4 drives to implement (Correct)
+Offers increased performance and fault tolerance (failure of up to 2 drives does not destroy the array and lost data can be re-created by the remaining drives) (Correct)
+Requires at least 3 drives to implement
+Is also known as disk striping with double parity (Correct)
+Continues to operate in case of failure of more than 2 drives
+Requires at least 5 drives to implement
+
+Hardware RAID Level 10 (a.k.a. RAID 1+0): (Select 3 answers)
+Requires a minimum of 4 drives to implement (Correct)
+Is referred to as stripe of mirrors, i.e., a combination of RAID 1 (disk mirroring) and RAID 0 (disk striping) (Correct)
+Requires a minimum of 5 drives to implement
+Offers increased performance and fault tolerance (failure of one drive in each mirrored pair of disk drives does not destroy the array) (Correct)
+Requires a minimum of 3 drives to implement
+Continues to operate in case of failure of more than 2 drives
+Is referred to as stripe of mirrors, i.e., a combination of RAID 1 (disk striping) and RAID 0 (disk mirroring)
+
+Which of the following RAID levels does not offer fault tolerance?
+RAID 6
+RAID 10
+RAID 5
+RAID 0 (Correct)
+RAID 1
+
+ Which of the answers listed below refers to the primary function of load balancing?
+Maintains identical copies of data across multiple servers to enhance data availability and reliability
+Distributes workload across multiple servers for improved performance (Correct)
+Groups servers together to provide high availability and fault tolerance
+Distributes content geographically across multiple servers to improve performance, reduce latency, and handle high volumes of traffic
+
+Which of the following is the primary function of clustering?
+Distributes content geographically across multiple servers to improve performance, reduce latency, and handle high volumes of traffic
+Groups servers together to provide high availability and fault tolerance (Correct)
+Maintains identical copies of data across multiple servers to enhance data availability and reliability
+Distributes workload across multiple servers for improved performance
+
+Which of the terms listed below refers to a duplicate of the original site, with fully operational computer systems as well as near-complete backups of user data?
+Hot site (Correct)
+Warm site
+Cold site
+Mobile site
+
+Which of the following terms refers to an alternate site that provides some pre-installed hardware and software and might have partial data backups, but it is not fully operational and requires additional configuration before use?
+Cold site
+Hot site
+Mirror site
+Warm site (Correct)
+
+A disaster recovery facility that provides only the physical space for recovery operations is known as:
+Hot site
+Warm site
+Cold site (Correct)
+Mirror site
+
+Which alternate site is the least expensive to implement?
+Cold site (Correct)
+Mirror site
+Warm site
+Hot site
+
+Which alternate site allows for the fastest disaster recovery?
+Cold site
+Hot site (Correct)
+Mobile site
+Warm site
+
+What is the name of a U.S. government initiative that provides a set of procedures and plans that an organization can implement to ensure continued performance of its essential functions during unexpected events?
+SLA
+COOP (Correct)
+RPO
+BIA
+
+Which of the answers listed below refers to a simulated scenario conducted in a controlled environment, typically involving discussions and planning around hypothetical security incidents?
+Tabletop exercise (Correct)
+Sandboxing
+Threat hunting
+Security awareness training
+
+The process of switching to a redundant or standby system upon detecting a disruption in the primary system is called:
+Fail over (Correct)
+Multipath I/O
+Load balancing
+Parallel processing
+
+Which of the following answers refers to a more realistic scenario that tests cybersecurity incident response by mimicking actual attacks?
+Fingerprinting
+Simulation (Correct)
+Threat hunting
+Tabletop exercise
+
+Which of the solutions listed below provides redundancy and fault tolerance by dividing tasks into smaller subtasks and distributing them across multiple systems to be executed simultaneously?
+Load balancing
+Multitasking
+Clustering
+Parallel processing (Correct)
+
+A file-based representation of the state of a virtual machine at a given point in time is referred to as:
+Restore point
+Shadow copy
+Snapshot (Correct)
+System image
+
+What type of backups are commonly used with virtual machines?
+Incremental backups
+Snapshot backups (Correct)
+Tape backups
+Differential backups
+
+Which of the following terms refers to a backup strategy that relies on creating and maintaining copies of data in real-time or near real-time on a separate system?
+Mirroring
+Virtualization
+Journaling
+Replication (Correct)
+
+A technique that allows to recover changes that occurred since the last backup in the event of a system crash is known as:
+Replication
+Journaling (Correct)
+Virtualization
+Mirroring
+
+Which of the answers listed below refers to a device designed to supply (and monitor the quality of) electric power to multiple outlets?
+PSU
+MDF
+PDU (Correct)
+IDF
+
+What is the name of a device that can provide short-term emergency power during an unexpected main power source outage?
+UPS (Correct)
+PoE
+SVC
+PSU
+
+Which of the following power redundancy solutions would be best suited for providing long-term emergency power during an unexpected main power source outage?
+Dual-power supply
+Standby UPS
+Backup generator (Correct)
+Managed PDU
+
+===== Bank 15 =====
+
+Which of the terms listed below is used to describe a foundational level of security configurations and settings required to safeguard a system?
+Logical segmentation
+Secure baseline (Correct)
+Access control levels
+Principle of least privilege
+
+Installing mobile apps from trusted sources (e.g., Apple's App Store for iOS devices, or Google Play for Android devices) instead of third-party application stores decreases malware-related security risks.
+True (Correct)
+False
+
+Data on a lost or stolen mobile device can be erased by:
+Rooting
+Sideloading
+Low-level formatting
+Remote wipe (Correct)
+
+Which of the following answers refers to a mobile security solution that enables separate controls over the user and enterprise data?
+Resource provisioning
+Content management 
+Storage segmentation (Correct)
+Just-in-time permissions
+
+Implementing full device encryption is one of the methods for securing sensitive data on a smartphone. When enabled, this type of encryption works in conjunction with the phone's screen lock, i.e., to decrypt the phone (which stays encrypted whenever the phone is locked), a user must first unlock the screen. On Android devices, the unlocking methods include entering a PIN, password, or drawing a simple pattern with a finger. Apple devices use passcodes, facial recognition (Face ID), and fingerprint (Touch ID).
+True (Correct)
+False
+
+In the context of MDM, the isolation of corporate applications and data from other parts of the mobile device is referred to as:
+Containerization (Correct)
+Storage segmentation
+Virtualization
+Content management
+
+Which of the answers listed below refer to workstation hardening techniques? (Select 3 answers)
+Hiding administrator accounts
+Regularly applying security patches and updates to the OS and installed software (Correct)
+Disabling all internet access
+Removing or disabling unnecessary drivers, services, software, and network protocols (Correct)
+Limiting unauthorized or unauthenticated user access (Correct)
+
+Which of the following answers refer(s) to (a) router hardening technique(s)? (Select all that apply)
+Changing default credentials (Correct)
+Disabling unused services and ports (Correct)
+Changing device name
+Disabling the broadcasting of the router's SSID
+Implementing regular firmware updates (Correct)
+
+Which of the answers listed below refers to the process of assessing the physical environment, such as the layout of the building, to identify potential sources of interference and determine the optimal placement of a WAP?
+Gap analysis
+Capacity planning
+Site survey (Correct)
+Vulnerability scanning
+
+An administrator needs to adjust the placement of multiple APs to ensure the best wireless signal coverage for the network. Which of the following would be of help in identifying areas of low signal strength?
+Heat map (Correct)
+Power level controls
+Logical network diagram
+Wi-Fi hotspots
+
+Which type of software enables centralized administration of mobile devices?
+MFA
+MMC
+MDM (Correct)
+MFD
+
+Which of the answers listed below refers to software that facilitates the enforcement of mobile device policies and procedures?
+MFA
+MMC
+MDM (Correct)
+MFD
+
+A mobile device deployment model that allows employees to use private mobile devices for accessing company's restricted data and applications is known as:
+COPE
+BYOD (Correct)
+CMS
+CYOD
+
+Which of the answers listed below refers to a mobile device deployment model where organizations provide and own the devices while allowing their personal use?
+BYOD
+COPE (Correct)
+UEM
+CYOD
+
+What is the name of a mobile device deployment model in which employees select devices for work-related tasks from a company-approved device list?
+CYOD (Correct)
+PAM
+BYOD
+COPE
+
+An SSID is a unique identifier (a.k.a. wireless network name) for a WLAN. Wireless networks advertise their presence by regularly broadcasting SSID in a special packet called beacon frame. In wireless networks with disabled security features, knowing the network SSID is enough to get access to the network. SSID also pinpoints the wireless router that acts as a WAP. Wireless routers from the same manufacturer are frequently configured with default (well-known) SSID names. Since multiple devices with the same SSID displayed on the list of available networks create confusion and encourage accidental access by unauthorized users (applies to networks that lack security), changing the default SSID is a recommended practice.
+True (Correct)
+False
+
+For a wireless client to be able to connect to a network, the security type (e.g., WEP, WPA, WPA2, or WPA3) and encryption type (e.g., TKIP or AES) settings on the connecting host must match the corresponding wireless security settings on a WAP.
+True (Correct)
+False
+
+Which of the following answers refers to a security feature used in Bluetooth device pairing?
+SAE
+PIN (Correct)
+MFA
+ACL
+
+Which of the following solutions would offer the strongest security for a small network that lacks an authentication server?
+WPA3-SAE (Correct)
+WPA2-Enterprise
+WPA2-PSK
+WPA3-Enterprise
+
+What are the characteristic features of WPA2/WPA3 Enterprise mode? (Select 3 answers)
+Suitable for large corporate networks (Correct)
+IEEE 802.1D
+Does not require an authentication server
+IEEE 802.1X (Correct)
+Suitable for all types of wireless LANs
+Requires RADIUS authentication server (Correct)
+
+What is the name of the encryption protocol primarily used in Wi-Fi networks implementing the WPA3 security standard?
+AES-CCMP
+CBC-MAC
+AES-GCMP (Correct)
+WPA-TKIP
+
+Which of the following acronyms refers to a client authentication method used in WPA3 Personal mode?
+SAE (Correct)
+IKE
+PSK
+AES
+
+What are the characteristics of TACACS+? (Select 3 answers)
+Encrypts only the password in the access-request packet
+Combines authentication and authorization
+Encrypts the entire payload of the access-request packet (Correct)
+Primarily used for device administration (Correct)
+Separates authentication and authorization (Correct)
+Primarily used for network access
+
+What are the characteristic features of RADIUS? (Select 3 answers)
+Primarily used for network access (Correct)
+Encrypts the entire payload of the access-request packet
+Combines authentication and authorization (Correct)
+Encrypts only the password in the access-request packet (Correct)
+Primarily used for device administration
+Separates authentication and authorization
+
+Which of the wireless encryption schemes listed below offers the highest level of protection?
+WPS
+WPA3 (Correct)
+AES
+TKIP
+
+===== Bank 16 =====
+
+Which of the following answers refers to a deprecated wireless authentication protocol developed by Cisco?
+PEAP
+EAP-TTLS
+LEAP (Correct)
+EAP-TLS
+
+Which of the answers listed below refers to an open standard wireless network authentication protocol that enhances security by encapsulating authentication process within an encrypted TLS tunnel?
+PEAP (Correct)
+EAP
+LEAP
+RADIUS
+
+Which of the programming aspects listed below are critical in the secure application development process? (Select 2 answers)
+Patch management
+Input validation (Correct)
+Password protection
+Error and exception handling (Correct)
+Application whitelisting
+
+A situation in which a web form field accepts data other than expected (e.g., server commands) is an example of:
+Zero-day vulnerability
+Improper input validation (Correct)
+Default configuration
+Improper error handling
+
+Which of the following answers refers to a countermeasure against code injection?
+Fuzzing
+Input validation (Correct)
+Code signing
+Normalization
+
+The term "Secure cookie" refers to a type of HTTP cookie that is transmitted over an encrypted HTTPS connection, which helps prevent the cookie from being intercepted or tampered with during transit.
+True (Correct)
+False
+
+Which of the terms listed below refers to an automated or manual code review process aimed at discovering logic and syntax errors in the application's source code?
+Input validation
+Dynamic code analysis
+Fuzzing
+Static code analysis (Correct)
+
+A dynamic code analysis allows for detecting application flaws without the need for actual execution of the application code.
+True
+False (Correct)
+
+The term "Static code analysis" refers to the process of discovering application runtime errors.
+True
+False (Correct)
+
+What is the purpose of code signing? (Select 2 answers)
+Disables code reuse
+Confirms the application's source of origin (Correct)
+Enables application installation
+Validates the application's integrity (Correct)
+Protects the application against unauthorized use
+
+The practice of finding vulnerabilities in an application by feeding it incorrect input is called:
+Normalization
+Hardening
+Dynamic code analysis
+Fuzzing (Correct)
+
+In computer security, a mechanism for safe execution of untested code or untrusted applications is referred to as:
+Sideloading
+Virtualization
+Sandboxing (Correct)
+Stress testing
+
+Which of the following answers refers to a Windows-specific feature for handling exceptions, errors, and abnormal conditions in software?
+EPC
+SEH (Correct)
+EH
+EXR
+
+Address Space Layout Randomization (ASLR) is an OS security technique that randomizes the location of key data areas in memory. The purpose of ASLR is to prevent attackers from predicting the location of specific code or data in memory, which adds a layer of defense against memory-based attacks, such as buffer overflows.
+True (Correct)
+False
+
+A type of user identification mechanism used as a countermeasure against automated software (such as network bots) is known as:
+MFA
+CAPTCHA (Correct)
+SSO
+NIDS
+
+Which of the answers listed below refers to a hardware monitoring and asset tracking method?
+Barcode labels
+QR codes
+RFID tags
+GPS tracking
+All of the above (Correct)
+
+Which of the following wireless technologies enables identification and tracking of tags attached to objects?
+GPS
+IR
+RFID (Correct)
+NFC
+
+Which type of software enables monitoring and tracking of mobile devices?
+MDM (Correct)
+GPS
+NFC
+GSM
+
+One of the ways to prevent data recovery from a storage drive is to overwrite its contents. The data overwriting technique is used by drive wipe utilities which might employ different methods (including multiple overwriting rounds) to decrease the likelihood of data retrieval. As an example, a disk sanitization utility might overwrite the data on the drive with the value of one in the first pass, change that value to zero in the second pass, and finally perform a few more passes, overwriting the contents with random characters.
+True (Correct)
+False
+
+Which of the destruction tools/methods listed below allow(s) for secure disposal of physical documents? (Select all that apply)
+Shredding (Correct)
+Overwriting
+Burning (Correct)
+Formatting
+Degaussing
+
+Which of the following methods provides the most effective way for permanent removal of data stored on a magnetic drive?
+Cryptographic erasure
+Data overwriting
+Degaussing (Correct)
+Low-level formatting
+
+Certificate of destruction is a document issued by companies that conduct secure device/document disposal. The certificate verifies proper asset destruction and can be used for auditing purposes. In case of device disposal, the document includes a list of all the items that have been destroyed along with their serial numbers. It may also describe the destruction method, specify location (on-site/off-site), or list the names of witnesses who oversaw the entire process.
+True (Correct)
+False
+
+Which policy typically specifies the period during which certain types of data must be stored prior to disposal?
+Data protection policy
+Data classification policy
+Data backup policy
+Data retention policy (Correct)
+
+Vulnerability scanning: (Select all that apply)
+Identifies lack of security controls (Correct)
+Actively tests security controls
+Identifies common misconfigurations (Correct)
+Exploits vulnerabilities
+Passively tests security controls (Correct)
+
+Which of the answers listed below refer to the characteristic features of static code analysis? (Select 3 answers)
+Involves examining the code without executing it (Correct)
+Often used early in the development process (Correct)
+Examines code structure, syntax, and semantics to detect issues like syntax errors, coding standards violations, security vulnerabilities, and bugs (Correct)
+Typically used later in the software development lifecycle
+Involves executing the code and analyzing its behavior at runtime
+Analyzes runtime properties like memory usage, performance, and error handling to identify issues such as memory leaks, performance bottlenecks, and runtime errors
+
+===== Bank 17 =====
+
+Which of the following statements describe the features of dynamic code analysis? (Select 3 answers)
+Typically used later in the software development lifecycle (Correct)
+Involves examining the code without executing it
+Analyzes runtime properties like memory usage, performance, and error handling to identify issues such as memory leaks, performance bottlenecks, and runtime errors (Correct)
+Often used early in the development process
+Examines code structure, syntax, and semantics to detect issues like syntax errors, coding standards violations, security vulnerabilities, and bugs
+Involves executing the code and analyzing its behavior at runtime (Correct)
+
+Which of the terms listed below refers to tracking and managing software application components, such as third-party libraries and other dependencies?
+Version control
+Package monitoring (Correct)
+Configuration enforcement
+Application hardening
+
+Which of the following terms refers to threat intelligence gathered from publicly available sources?
+IoC
+OSINT (Correct)
+RFC
+CVE/NVD
+
+Which of the terms listed below refers to a US government initiative for real-time sharing of cyber threat indicators?
+AIS (Correct)
+STIX
+TTP
+CVSS
+
+What is STIX?
+A type of vulnerability database
+Common language for describing cyber threat information (Correct)
+US government initiative for real-time sharing of cyber threat indicators
+Transport mechanism for cyber threat information
+
+A dedicated transport mechanism for cyber threat information is called:
+TCP/IP
+TLS
+TAXII (Correct)
+S/MIME
+
+Which of the following provides insights into the methods and tools used by cybercriminals to carry out attacks?
+CVE
+IoC
+AIS
+TTP (Correct)
+
+Which of the following statements does not apply to dark web?
+Typically requires specialized software to access its contents
+Forms a large part of the deep web (Correct)
+Not indexed by traditional search engines
+Often associated with trading stolen data, malware, and cyber threats
+
+Penetration testing: (Select all that apply)
+Bypasses security controls (Correct)
+Only identifies lack of security controls
+Actively tests security controls (Correct)
+Exploits vulnerabilities (Correct)
+Passively tests security controls
+
+A responsible disclosure program is a formal process established by an organization to encourage security researchers and ethical hackers to report vulnerabilities they discover in the organization's systems or software. A bug bounty program is a specific type of responsible disclosure program that offers financial rewards to security researchers for reporting valid vulnerabilities.
+True (Correct)
+False
+
+An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of:
+Fault tolerance
+False positive error (Correct)
+Quarantine feature
+False negative error
+
+Which of the answers listed below refers to a situation where no alarm is raised when an attack has taken place?
+False negative (Correct)
+True positive
+False positive
+True negative
+
+A measure of the likelihood that a security system will incorrectly reject an access attempt by an authorized user is referred to as:
+FAR
+CER
+CRC
+FRR (Correct)
+
+Which of the following terms refers to a framework and knowledge base that provides understanding of TTPs used during cyberattacks?
+CVSS
+ATT&CK (Correct)
+STIX
+TAXII
+
+Which of the answers listed below refers to an industry standard for assessing and scoring the severity of computer system security vulnerabilities?
+SIEM
+CVSS (Correct)
+OSINT
+SOAR
+
+Which of the following refers to a system that identifies, defines, and catalogs publicly known cybersecurity vulnerabilities?
+TAXII
+CVE (Correct)
+STIX
+CVSS
+
+What is Exposure Factor (EF) in vulnerability analysis?
+The likelihood that a vulnerability will be exploited in a real-world scenario
+The rate at which vulnerabilities are discovered and reported
+The degree of loss that a realized threat would have on a specific asset (Correct)
+The measure of the potential impact of a vulnerability on an organization's assets
+
+Which of the statements listed below does not refer to a vulnerability response and remediation technique?
+Applying updates or fixes provided by software vendors to address the vulnerability (patching)
+Ensuring financial recovery from the costs associated with a successful cyberattack (insurance)
+Dividing a network into smaller, isolated zones to limit the potential impact of a vulnerability (segmentation)
+Mitigating the risk associated with a vulnerability that cannot be immediately patched by implementing alternative security measures (compensating controls)
+Delaying or forgoing a patch for a specific system, e.g., when applying a patch may not be feasible due to compatibility issues or potential disruptions to critical systems (exceptions and exemptions)
+All of the above answers are examples of vulnerability response and remediation techniques (Correct)
+
+The practice of isolating potentially malicious or suspicious entities to prevent them from causing harm to the rest of the network or system is known as:
+Sandboxing
+Containerization
+Quarantine (Correct)
+Segmentation
+
+Which of the following answers refer to SCAP? (Select 3 answers)
+A type of security system designed to collect logs and events from various sources
+Designed to provide a centralized user interface for accessing collected data
+A collection of standards developed by NIST (Correct)
+Provides a common language for communicating security information (Correct)
+Allows different security tools to share data and work together more effectively (Correct)
+Enables real-time threat detection, incident response, and compliance monitoring
+
+Which of the answers listed below refer to SIEM? (Select 3 answers)
+Allows different security tools to share data and work together more effectively
+Designed to provide a centralized user interface for accessing collected data (Correct)
+A collection of standards developed by NIST
+Enables real-time threat detection, incident response, and compliance monitoring (Correct)
+A type of security system designed to collect logs and events from various sources (Correct)
+Provides a common language for communicating security information
+
+Which of the following acronyms refers to software or hardware-based security solutions designed to detect and prevent unauthorized use and transmission of confidential information?
+IPS
+DLP (Correct)
+IDS
+DEP
+
+Simple Network Management Protocol (SNMP) is a UDP-based, application layer protocol used in network management systems to monitor network-attached devices. SNMP is typically integrated into most modern network infrastructure devices such as routers, bridges, switches, servers, printers, copiers, fax machines, and other network-attached devices. An SNMP-managed network comprises three essential components: a managed device, a network-management software module that resides on a managed device (Agent), and a Network Management Station (NMS), which runs applications responsible for monitoring and controlling managed devices, as well as collecting SNMP information from Agents. The manager receives notifications (Traps and InformRequests) on UDP port 162, while the SNMP Agent receives requests on UDP port 161.
+True (Correct)
+False
+
+An SNMP-compliant device includes a virtual database containing information about configuration and state of the device that can be queried by an SNMP management station. This type of data repository is referred to as:
+MIB (Correct)
+DCS
+NMS
+SIEM
+
+Of the three existing versions of the Simple Network Management Protocol (SNMP), versions 1 and 2 (SNMPv1 and SNMPv2) offer authentication based on community strings sent in an unencrypted form (a.k.a. cleartext). SNMPv3 provides packet encryption, authentication, and hashing mechanisms that allow for checking whether data has changed in transit.
+True (Correct)
+False
+
+===== Bank 18 =====
+
+In SNMP, each node in a MIB is uniquely identified by a(n):
+DSU
+OID (Correct)
+CSU
+OUI
+
+Which of the answers listed below refers to a network protocol developed by Cisco for collecting information about IP traffic flowing across network devices like routers, switches, and firewalls?
+OpenVAS
+iPerf
+pfSense
+NetFlow (Correct)
+
+Firewall rules are evaluated based on their order of precedence. Rules at the top of the list take precedence over rules further down the list. Once a matching rule is found, no further evaluation of subsequent rules occurs. The "implicit deny" policy on a firewall is a common default behavior in which any traffic that does not explicitly match any of the configured allow rules is automatically denied or blocked. In other words, if a packet does not meet the criteria of any allow rule, the default behavior of the firewall is to deny the traffic.
+True (Correct)
+False
+
+Which of the following refers to a set of rules defining how a firewall manages network traffic?
+MAC
+ACL (Correct)
+NAC
+DLP
+
+A lightly protected subnet (a.k.a. DMZ) consisting of publicly available servers placed on the outside of the company's firewall is known as:
+Captive portal
+Quarantine network
+Extranet
+Screened subnet (Correct)
+
+Which of the answers listed below most accurately describes patterns or behaviors observed in network traffic over time?
+Trends (Correct)
+Anomalies
+Threats
+Signatures
+
+Which of the following terms refers to predefined patterns or characteristics of known threats or attack methods?
+Security logs
+Baselines
+Trends
+Signatures (Correct)
+
+A type of IDS/IPS that compares current network traffic against a database of known attack patterns is called:
+Heuristic
+Anomaly-based
+Behavioral
+Signature-based (Correct)
+
+Agent-based web filtering: (Select 3 answers)
+Requires installing software on each device that needs to be monitored (Correct)
+Provides flexibility and granular control over web activity at the device level (Correct)
+Involves increased management overhead and system resource consumption (Correct)
+Simplifies administration and ensures consistent enforcement of web filtering policies across the network
+Does not require software to be installed on each individual device
+Requires a functioning central server for web filtering to operate
+
+Web filtering via centralized proxy: (Select 3 answers)
+Involves increased management overhead and system resource consumption
+Does not require software to be installed on each individual device (Correct)
+Requires installing software on each device that needs to be monitored
+Simplifies administration and ensures consistent enforcement of web filtering policies across the network (Correct)
+Provides flexibility and granular control over web activity at the device level
+Requires a functioning central server for web filtering to operate (Correct)
+
+Which of the answers listed below refer to filtering techniques that can allow or block access to a site based on its web address? (Select 2 answers)
+SSL/TLS inspection
+URL scanning (Correct)
+Content categorization
+DNS filtering (Correct)
+Reputation-based filtering
+
+Content categorization in web filtering involves classifying web content into predefined categories based on its subject matter or type. This technique enables organizations to apply filtering policies selectively, for example restricting access to certain categories during work hours or blocking access to categories associated with security risks or non-work-related activities.
+True (Correct)
+False
+
+In Windows Active Directory environment, this feature enables centralized management and configuration of operating systems, applications, and user account settings.
+Local Users and Groups
+Resource Monitor
+Group Policy (Correct)
+User Account Control
+
+What is SELinux?
+A security feature in Linux OSs (Correct)
+A secure boot mechanism implemented in certain Linux distributions
+An open-source web server software
+A Linux distribution
+
+Which of the following answers refers to a security mechanism imposed by SELinux over system access?
+DAC
+RBAC
+MAC (Correct)
+ABAC
+
+Which of the protocols listed below is used to enable secure web browsing?
+L2TP
+HTTPS (Correct)
+SSH
+IPsec
+
+Which of the following protocols allow(s) for secure file transfer? (Select all that apply)
+FTPS (Correct)
+TFTP
+FTP
+SFTP (Correct)
+
+FTPS is an extension to the SSH protocol and runs by default on TCP port 22.
+True
+False (Correct)
+
+Which of the answers listed below refers to a secure replacement for Telnet?
+RSH
+IPsec
+SSH (Correct)
+RTPS
+
+Which of the following answers refers to a deprecated protocol designed as a secure way to send emails from a client to a mail server and between mail servers?
+IMAPS
+SFTP
+POP3S
+SMTPS (Correct)
+
+Which of the protocols listed below enable secure retrieval of emails from a mail server to an email client? (Select 2 answers)
+FTPS
+IMAPS (Correct)
+POP3S (Correct)
+STARTTLS
+SMTPS
+
+Which of the following protocols enables secure access and management of emails on a mail server from an email client?
+POP3S
+SMTPS
+IMAPS (Correct)
+S/MIME
+
+Which of the answers listed below refers to a secure network protocol used to provide encryption, authentication, and integrity for real-time multimedia communication?
+IPsec
+SIP
+VoIP
+SRTP (Correct)
+
+UDP is a connection-oriented protocol using a three-way handshake which is a set of initial steps required for establishing network connection. UDP supports retransmission of lost packets, flow control (managing the amount of data that is being sent), and sequencing (rearranging packets that arrived out of order). Example applications of UDP include transmission of text and image data.
+True
+False (Correct)
+
+TCP is an example of a connectionless protocol. Because TCP does not support three-way handshake while establishing a network connection, it is referred to as unreliable or best-effort protocol. Example applications of TCP include transmission of video and audio streaming data.
+True
+False (Correct)
+=====Questions End=====
