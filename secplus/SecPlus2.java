@@ -350,7 +350,7 @@ public class SecPlus2 {
 				e.printStackTrace();
 			}
         } else {
-            System.out.println("File DOES NOT Exists");
+            System.out.println(testFile.getName() + "File DOES NOT Exists");
         }
 		return bank;
 	}
@@ -432,7 +432,7 @@ public class SecPlus2 {
 				e.printStackTrace();
 			}
         } else {
-            System.out.println("File DOES NOT Exists");
+            System.out.println(testFile.getName() + "File DOES NOT Exists");
         }
 		// System.out.println("Question bank: " + bank.size());
 		// System.out.println("Answer bank: " + answerList.size());

@@ -6153,9 +6153,6 @@ The following are the logs of a successful attack.
 
 
 
-1
-
-
 
 Which of the following controls would be BEST to use to prevent such a breach in the future?
 
@@ -8970,7 +8967,6 @@ D. Development
 Answer: A
 
 END
-
 QUESTION 601
 An organization wants to participate in threat intelligence information sharing with peer groups. 
 Which of the following would MOST likely meet the organizations requirement?
@@ -9113,7 +9109,7 @@ A security analyst is investigating some users who are being redirected to a fak
 
 
 
-199Which of the following attacks has taken place?
+Which of the following attacks has taken place?
 
 A. Domain reputation 
 B. Domain hijacking 
