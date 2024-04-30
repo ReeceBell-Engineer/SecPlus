@@ -52,8 +52,9 @@ STIX,Structured Threat Information eXpression
 FRR,False Rejection Rate
 CRC,Cyclic Redundancy Check
 FAR,False Acceptance Rate
-CER,Crossover Error Rate
+CER,Crossover Error Rate or Canonical Encoding Rules
 EOL,End-of-Life
+EOSL,End of Service Life
 ALM,Application Lifecycle Management
 EOS,End-of-Support
 SDLC,Software Development Life Cycle
@@ -84,8 +85,9 @@ CFB,
 CBC,
 GCM,
 ECB,
-AES,
-IDEA,
+AES,Advanced Encryption Standard
+IDEA,International Data Encryption Algorithm
+RC,Ron Rivest Cipher or Ron's Code
 EPC,
 DNAT,
 VLSM,
@@ -94,15 +96,16 @@ VLAN,
 SPD,
 SD-WAN,
 OSI,
-TLS,
+WEP,
+TLS,Transport Layer Security
 MIME,
 S/MIME,
 SSL,
-DES,
+DES,Data Encryption Standard
 RC4,
 CVSS,
 SOAR,
-MSP,
+MSP,Managed Service Provider
 NFS,
 CTM,
 SFC,
@@ -121,8 +124,43 @@ MDM,
 WAF,
 PCI DSS,Payment Card Industry Data Security Standards
 GDPR,General Data Protection Regulation
-ISO 31000,
+ISO,
 NIST,
 DNSSEC,
 DMARC,
-DNS,
+DNS,Domain Name System
+VA,Validation Authority
+WPA,Wi-Fi Protected Access
+WoT,Web of Trust
+PBKDF2,Password-Based Key Derivation Function 2
+DER,Distinguished Encoding Rules
+PEM,Privacy Enhancement Mail
+PFX,Personal Information Exchange
+RoT,Root of Trust
+CSR,Certificate Signing Request
+APT,Advanced Persistent Threat
+TOC,Time of Check
+TOU,Time of Use
+XSS,Cross-site Scripting
+SQLi,Strictured Query Language injection
+OWASP,Open Web Application Security Project
+CSRF,Cross Site Request Forgery
+XSRF,Cross Site Request Forgery
+SBOM,Software Bill of Materials
+POODLE,Padding Oracle On Downgraded Legacy Encryption
+Beast,Browser Exploit Against SSL/TLS
+RFID,Radio Frequency Identification
+DOS,Denial of Service
+DDOS,Distributed Denial of Service
+LotL,Live Off the Land
+NTP,Network Time Protocol
+CLDAP,Connectionless Lightweight Directory Access Protocol
+LDAP,Lightweight Directory Access Protocol
+DLL,Dynamic Link Library
+CIDR,Classless Inter-Domain Routing
+LaC,
+TAXII,
+EAP,
+SAML,
+PCI,
+DSS,
