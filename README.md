@@ -1,7 +1,7 @@
 Run SecPlus2 to use the most current test bank.
 
 All features have not been implemented.
-Formatting of the test bank resource us not perfectly formatted with new lines but does not affect the code, only some presentation.
+Formatting of the test bank resource is not perfectly formatted with new lines (\n) but does not affect the code, only some presentation.
 
 Order of Operations
 
